@@ -21,7 +21,10 @@ redirect_from:
   * [arXiv](https://arxiv.org/abs/2010.01749)
 
 * A Lichnerowicz vanishing theorem for the maximal Roe algebra. Math. Ann. 2022 (with Z. Xie and G. Yu)
-  * [arXiv](https://arxiv.org/abs/1905.12299) &#124 [Journal](https://arxiv.org/abs/1905.12299)
+  * [arXiv](https://arxiv.org/abs/1905.12299) &#124 [journal](https://link.springer.com/article/10.1007/s00208-021-02333-0)
+
+* A
+  * [arXiv]() \| [journal]()
 
 
 ## Other articles
