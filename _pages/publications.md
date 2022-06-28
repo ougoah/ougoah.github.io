@@ -46,7 +46,7 @@ redirect_from:
 
 * Index of equivariant Callias-type operators and invariant metrics of positive scalar curvature. J. Geom. Anal. 2021
 
-[arXiv](https://arxiv.org/abs/1803.05558) \| [journal](https://link.springer.com/article/10.1007/s12220-019-00249-5)
+- [arXiv](https://arxiv.org/abs/1803.05558) \| [journal](https://link.springer.com/article/10.1007/s12220-019-00249-5)
 
 * Positive scalar curvature and Poincaré duality for proper actions. J. Noncommut. Geom. 2019 (with V. Mathai and H. Wang)
 
