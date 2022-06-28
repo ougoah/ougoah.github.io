@@ -6,8 +6,6 @@ redirect_from:
   - /writing.html
 ---
 
-# Writing  
-
 ## Research articles
 
 * Covering complexity, scalar curvature, and quantitative K-theory (with G. Yu)  
