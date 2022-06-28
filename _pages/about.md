@@ -1,6 +1,6 @@
 ---
 permalink: /
-title:
+title: ""
 excerpt:
 author_profile: true
 redirect_from: 
@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Hao Guo.
---
+###Hi, I'm Hao Guo.
+
 
 I'm currently an Assistant Professor at the Yau Mathematical Sciences Center at Tsinghua University.
 

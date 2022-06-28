@@ -6,7 +6,7 @@ redirect_from:
   - /writing.html
 ---
 
-## Research articles
+### Research articles
 
 * Covering complexity, scalar curvature, and quantitative K-theory (with G. Yu)  
 [arXiv](https://arxiv.org/abs/2203.15003)
@@ -14,12 +14,12 @@ redirect_from:
 * Higher localised A-hat-genera for proper actions and applications (with V. Mathai)  
 [arXiv](https://arxiv.org/abs/2108.01838)
 
-* An equivariant Poincaré duality for proper cocompact actions by matrix groups (with V. Mathai). 
-To appear in **J. Noncommut. Geom.**  
+* An equivariant Poincaré duality for proper cocompact actions by matrix groups (with V. Mathai)  
+**J. Noncommut. Geom.** (to appear) 
 [arXiv](https://arxiv.org/abs/2009.13695)
 
 * Quantitative K-theory, positive scalar curvature, and band width (with Z. Xie and G. Yu)  
-To appear in **Perspectives on Scalar Curvature**, eds. M. Gromov, H. B. Lawson  
+**Perspectives on Scalar Curvature** (to appear), eds. M. Gromov, H. B. Lawson  
 [arXiv](https://arxiv.org/abs/2010.01749)
 
 * A Lichnerowicz vanishing theorem for the maximal Roe algebra (with Z. Xie and G. Yu)  
@@ -42,7 +42,7 @@ To appear in **Perspectives on Scalar Curvature**, eds. M. Gromov, H. B. Lawson
 **Trans. Amer. Math. Soc.** 2021  
 [arXiv](https://arxiv.org/abs/1909.11815) \| [journal](https://www.ams.org/journals/tran/2021-374-04/S0002-9947-2021-08202-1/)
 
-* Index of equivariant Callias-type operators and invariant metrics of positive scalar curvature
+* Index of equivariant Callias-type operators and invariant metrics of positive scalar curvature. 
 **J. Geom. Anal.** 2021  
 [arXiv](https://arxiv.org/abs/1803.05558) \| [journal](https://link.springer.com/article/10.1007/s12220-019-00249-5)
 
@@ -53,7 +53,7 @@ To appear in **Perspectives on Scalar Curvature**, eds. M. Gromov, H. B. Lawson
 
 ## Other articles
 
-* Positive scalar curvature and Callias-type index theorems for proper actions. 
+* Positive scalar curvature and Callias-type index theorems for proper actions.  
 **Bull. Aust. Math. Soc.** 2019  
 [journal](https://www.cambridge.org/core/journals/bulletin-of-the-australian-mathematical-society/article/positive-scalar-curvature-and-calliastype-index-theorems-for-proper-actions/E00F408F43847215516DD8296E2477D2)
 
