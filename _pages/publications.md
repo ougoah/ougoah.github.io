@@ -9,7 +9,9 @@ redirect_from:
 ## Research articles
 
 * Covering complexity, scalar curvature, and quantitative K-theory (with G. Yu)
+
 [arXiv](https://arxiv.org/abs/2203.15003)
+
 * Top navigation bar config: _data/navigation.yml
 * Single pages: _pages/
 * Collections of pages are .md or .html files in:
