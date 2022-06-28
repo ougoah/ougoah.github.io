@@ -6,7 +6,7 @@ redirect_from:
   - /writing.html
 ---
 
-### Research articles
+## Research articles
 
 * Covering complexity, scalar curvature, and quantitative K-theory (with G. Yu)  
 [arXiv](https://arxiv.org/abs/2203.15003)
@@ -15,7 +15,7 @@ redirect_from:
 [arXiv](https://arxiv.org/abs/2108.01838)
 
 * An equivariant Poincaré duality for proper cocompact actions by matrix groups (with V. Mathai)  
-**J. Noncommut. Geom.** (to appear) 
+**J. Noncommut. Geom.** (to appear)  
 [arXiv](https://arxiv.org/abs/2009.13695)
 
 * Quantitative K-theory, positive scalar curvature, and band width (with Z. Xie and G. Yu)  
@@ -42,7 +42,7 @@ redirect_from:
 **Trans. Amer. Math. Soc.** 2021  
 [arXiv](https://arxiv.org/abs/1909.11815) \| [journal](https://www.ams.org/journals/tran/2021-374-04/S0002-9947-2021-08202-1/)
 
-* Index of equivariant Callias-type operators and invariant metrics of positive scalar curvature. 
+* Index of equivariant Callias-type operators and invariant metrics of positive scalar curvature.  
 **J. Geom. Anal.** 2021  
 [arXiv](https://arxiv.org/abs/1803.05558) \| [journal](https://link.springer.com/article/10.1007/s12220-019-00249-5)
 
