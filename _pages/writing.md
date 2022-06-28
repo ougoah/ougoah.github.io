@@ -15,11 +15,11 @@ redirect_from:
 [arXiv](https://arxiv.org/abs/2108.01838)
 
 * An equivariant Poincaré duality for proper cocompact actions by matrix groups (with V. Mathai)  
-**J. Noncommut. Geom.** (to appear)  
+**J. Noncommut. Geom.**, to appear  
 [arXiv](https://arxiv.org/abs/2009.13695)
 
 * Quantitative K-theory, positive scalar curvature, and band width (with Z. Xie and G. Yu)  
-**Perspectives on Scalar Curvature** (to appear), eds. M. Gromov, H. B. Lawson  
+**Perspectives on Scalar Curvature**, to appear, eds. M. Gromov, H. B. Lawson  
 [arXiv](https://arxiv.org/abs/2010.01749)
 
 * A Lichnerowicz vanishing theorem for the maximal Roe algebra (with Z. Xie and G. Yu)  
@@ -58,5 +58,5 @@ redirect_from:
 [journal](https://www.cambridge.org/core/journals/bulletin-of-the-australian-mathematical-society/article/positive-scalar-curvature-and-calliastype-index-theorems-for-proper-actions/E00F408F43847215516DD8296E2477D2)
 
 * A Poincaré duality in K-theory  
-**Austral. Math. Soc. Gaz.** 2017. 
+**Austral. Math. Soc. Gaz.** 2017.  
 [journal](https://www.austms.org.au/Publ/Gazette/2017/Mar17/TechGuo.pdf)
