@@ -1,12 +1,12 @@
 ---
-permalink: /publications/
-title: "Publications"
+permalink: /writing/
+title: "Writing"
 author_profile: true
 redirect_from: 
-  - /publications.html
+  - /writing.html
 ---
 
-## Research
+## Research articles
 
 * Covering complexity, scalar curvature, and quantitative K-theory (with G. Yu)  
 [arXiv](https://arxiv.org/abs/2203.15003)
@@ -42,7 +42,7 @@ redirect_from:
 [arXiv](https://arxiv.org/abs/1609.01404) \| [journal](https://www.ems-ph.org/journals/show_abstract.php?issn=1661-6952&vol=13&iss=4&rank=5)
 
 
-## Expository
+## Other articles
 
 * Positive scalar curvature and Callias-type index theorems for proper actions. Bull. Aust. Math. Soc. (2019)  
 [journal](https://www.cambridge.org/core/journals/bulletin-of-the-australian-mathematical-society/article/positive-scalar-curvature-and-calliastype-index-theorems-for-proper-actions/E00F408F43847215516DD8296E2477D2)
