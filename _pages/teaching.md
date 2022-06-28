@@ -1,12 +1,12 @@
 ---
 permalink: /teaching/
-title: ""
+title: "Teaching"
 author_profile: true
 redirect_from: 
   - /teaching.html
 ---
 
-## Courses
+# Courses
 
 In the Fall of 2022, I will be teaching linear algebra at Tsinghua. Here are some courses that I have enjoyed teaching in the past:
 
