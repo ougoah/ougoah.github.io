@@ -1,6 +1,6 @@
 ---
 permalink: /writing/
-title: ""
+title: "Writing"
 author_profile: true
 redirect_from: 
   - /writing.html
