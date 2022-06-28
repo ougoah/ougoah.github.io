@@ -6,7 +6,7 @@ redirect_from:
   - /publications.html
 ---
 
-## Research articles
+## Research
 
 * Covering complexity, scalar curvature, and quantitative K-theory (with G. Yu)  
 [arXiv](https://arxiv.org/abs/2203.15003)
@@ -42,17 +42,10 @@ redirect_from:
 [arXiv](https://arxiv.org/abs/1609.01404) \| [journal](https://www.ems-ph.org/journals/show_abstract.php?issn=1661-6952&vol=13&iss=4&rank=5)
 
 
-## Other articles
+## Expository
 
-* Basic config options: _config.yml
-* Top navigation bar config: _data/navigation.yml
-* Single pages: _pages/
-* Collections of pages are .md or .html files in:
-  * _publications/
-  * _portfolio/
-  * _posts/
-  * _teaching/
-  * _talks/
-* Footer: _includes/footer.html
-* Static files (like PDFs): /files/
-* Profile image (can set in _config.yml): images/profile.png [commit list](https://github.com/academicpages/academicpages.github.io/commits/master) 
+* Positive scalar curvature and Callias-type index theorems for proper actions. Bull. Aust. Math. Soc. (2019)  
+[journal](https://www.cambridge.org/core/journals/bulletin-of-the-australian-mathematical-society/article/positive-scalar-curvature-and-calliastype-index-theorems-for-proper-actions/E00F408F43847215516DD8296E2477D2)
+
+* A Poincaré duality in K-theory. Austral. Math. Soc. Gaz. (2017)  
+[journal](https://www.austms.org.au/Publ/Gazette/2017/Mar17/TechGuo.pdf)
