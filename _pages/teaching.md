@@ -10,26 +10,28 @@ redirect_from:
 
 ## Courses
 
-* Covering complexity, scalar curvature, and quantitative K-theory (with G. Yu)  
-[arXiv](https://arxiv.org/abs/2203.15003)
+In the Fall of 2022, I will be teaching linear algebra at Tsinghua. Here are some courses that I have enjoyed teaching in the past:
 
-* Higher localised A-hat-genera for proper actions and applications (with V. Mathai)  
-[arXiv](https://arxiv.org/abs/2108.01838)
+* Math304 Linear Algebra, Spring 2020 (Texas A&M)
+
+* Math311 Topics in Applied Mathematics I, Spring 2019 (Texas A&M)
+
+* Math152 Calculus II, Fall 2018 (Texas A&M)
 
 
 
-## Organisational activities
+## Organisation
 
 Here are some things I've enjoyed organising in the past:  
 
-* Texas A\& M Math Circle
+* Texas A&M Math Circle
 
-* Texas A\& M Noncommutative Geometry Seminar
+* Texas A&M Noncommutative Geometry Seminar
 
-* Texas A\& M working seminar on quantitative K-theory and positive scalar curvature
+* Texas A&M working seminar on quantitative K-theory and positive scalar curvature
 
-* Conference on Index Theory and Applications to Positive Scalar Curvature and Related Areas, Adelaide Australia, June 4 - 8, 2018
+* Conference on Index Theory and Applications to Positive Scalar Curvature and Related Areas, Adelaide Australia, June 2018
 
-* Symposium for the 25th Anniversary of the Institute for Geometry and Its Applications, University of Adelaide, November 5, 2021
+* Symposium for the 25th Anniversary of the Institute for Geometry and Its Applications, University of Adelaide, November 2021
 
-* Operator Algebras and Noncommutative Geometry special session at AustMS 2021
+* Operator Algebras and Noncommutative Geometry special session at AustMS, December 2021

@@ -1,10 +1,12 @@
 ---
 permalink: /writing/
-title: "Writing"
+title: ""
 author_profile: true
 redirect_from: 
   - /writing.html
 ---
+
+# Writing  
 
 ## Research articles
 
@@ -51,12 +53,12 @@ redirect_from:
 [arXiv](https://arxiv.org/abs/1609.01404) \| [journal](https://www.ems-ph.org/journals/show_abstract.php?issn=1661-6952&vol=13&iss=4&rank=5)
 
 
-### Other articles
+## Other articles
 
 * Positive scalar curvature and Callias-type index theorems for proper actions.  
 **Bull. Aust. Math. Soc.** 2019  
 [journal](https://www.cambridge.org/core/journals/bulletin-of-the-australian-mathematical-society/article/positive-scalar-curvature-and-calliastype-index-theorems-for-proper-actions/E00F408F43847215516DD8296E2477D2)
 
 * A Poincaré duality in K-theory  
-**Austral. Math. Soc. Gaz.** 2017.  
+**Austral. Math. Soc. Gaz.** 2017  
 [journal](https://www.austms.org.au/Publ/Gazette/2017/Mar17/TechGuo.pdf)
