@@ -51,7 +51,7 @@ redirect_from:
 [arXiv](https://arxiv.org/abs/1609.01404) \| [journal](https://www.ems-ph.org/journals/show_abstract.php?issn=1661-6952&vol=13&iss=4&rank=5)
 
 
-## Other articles
+### Other articles
 
 * Positive scalar curvature and Callias-type index theorems for proper actions.  
 **Bull. Aust. Math. Soc.** 2019  
