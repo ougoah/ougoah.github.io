@@ -8,8 +8,7 @@ redirect_from:
 
 ## Research articles
 
-* Covering complexity, scalar curvature, and quantitative K-theory (with G. Yu)
-
+* Covering complexity, scalar curvature, and quantitative K-theory (with G. Yu)  
 [arXiv](https://arxiv.org/abs/2203.15003)
 
 * Higher localised A-hat-genera for proper actions and applications (with V. Mathai)
