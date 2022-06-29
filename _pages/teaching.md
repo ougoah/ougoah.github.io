@@ -7,7 +7,7 @@ redirect_from:
 ---
   
   
-# Teaching  
+## Teaching  
 
 ### Courses
 
@@ -23,7 +23,7 @@ In the Fall of 2022, I will be teaching linear algebra at Tsinghua. Here are som
 
 ### Organisation
 
-Here are some things I've enjoyed organising in the past:  
+Here are some things I've helped organise in the past:  
 
 * Texas A&M Math Circle
 

@@ -8,13 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-## Hi, I'm Hao Guo. 
+## Welcome!
 
 
-I'm currently an Assistant Professor at the Yau Mathematical Sciences Center at Tsinghua University.
+I'm an Assistant Professor at the Yau Mathematical Sciences Center (YMSC) at Tsinghua University.
 
-Prior to this, I was a Visiting Assistant Professor at Texas A&M University. I received my Ph.D. in December 2018 from the University of Adelaide under the supervision of Mathai Varghese and Hang Wang.
+On this website you can find a list of my written work and information about my teaching and organisational activities, past and present.
 
-I am interested in understanding connections between geometry, group theory, and topology using ideas from functional analysis and algebra. So far my research has mostly centred around index theory, which lies at the intersection of these areas.
+Before coming to Tsinghua, I was a postdoc at Texas A&M University under the guidance of [Guoliang Yu](https://www.math.tamu.edu/~guoliangyu/). I received my Ph.D. in December 2018 from the University of Adelaide under the direction of [Mathai Varghese](http://www.maths.adelaide.edu.au/mathai.varghese/) and [Hang Wang](https://math.ecnu.edu.cn/~wanghang/intro_c.html?language=2&id=204).
 
-Here is a more detailed [CV](https://drive.google.com/file/d/1LqtzozQGQCMIsoV0Y3dlHbgq3F6zohd2/view?usp=sharing) (updated April 2022).
+My current research can be understood as part of a broader attempt to discern connections between geometry, group theory, and topology using tools from functional analysis and algebra. My work has centred around index theory, an area that lies at the intersection of these branches of mathematics.
+
+Click [here](https://drive.google.com/file/d/1LqtzozQGQCMIsoV0Y3dlHbgq3F6zohd2/view?usp=sharing) for a more detailed CV.
