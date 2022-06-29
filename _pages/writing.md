@@ -1,10 +1,12 @@
 ---
 permalink: /writing/
-title: "Writing"
+title: ""
 author_profile: true
 redirect_from: 
   - /writing.html
----
+---   
+  
+# Writing
 
 ### Research articles
 

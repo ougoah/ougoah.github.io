@@ -1,10 +1,13 @@
 ---
 permalink: /teaching/
-title: "Teaching"
+title: ""
 author_profile: true
 redirect_from: 
   - /teaching.html
 ---
+  
+  
+# Teaching  
 
 ### Courses
 
