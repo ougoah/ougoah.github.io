@@ -11,7 +11,7 @@ redirect_from:
 ## Welcome!
 
 
-I'm an Assistant Professor at the Yau Mathematical Sciences Center (YMSC) at Tsinghua University.
+I'm an Assistant Professor at the Yau Mathematical Sciences Center at Tsinghua University.
 
 On this website you can find a list of my written work and information about my teaching and organisational activities, past and present.
 
