@@ -60,5 +60,5 @@ redirect_from:
 [journal](https://www.cambridge.org/core/journals/bulletin-of-the-australian-mathematical-society/article/positive-scalar-curvature-and-calliastype-index-theorems-for-proper-actions/E00F408F43847215516DD8296E2477D2)
 
 * A Poincaré duality in K-theory  
-**Australalian Mathematical Society Gazette**  
+**Australian Mathematical Society Gazette**  
 [journal](https://www.austms.org.au/Publ/Gazette/2017/Mar17/TechGuo.pdf)
