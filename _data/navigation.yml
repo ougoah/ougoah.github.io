@@ -4,5 +4,7 @@ main:
     url: /writing/
 
   - title: "Teaching"
-    url: /teaching/    
-    
+    url: /teaching/
+
+  - title: "Organisation"
+    url: /organisation/
