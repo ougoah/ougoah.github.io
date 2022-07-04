@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-## Welcome!
+## Welcome
 
 
 I'm an Assistant Professor at the Yau Mathematical Sciences Center at Tsinghua University.
