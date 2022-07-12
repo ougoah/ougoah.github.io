@@ -7,7 +7,8 @@ redirect_from:
 ---
   
   
-## Organisation  
+# Organisation
+<hr style="height:1pt;"/>
 
 Here are some things I've helped organise in the past:  
 

@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-## Welcome
-
+# Welcome
+<hr style="height:1pt;"/>
 
 I'm an Assistant Professor at the Yau Mathematical Sciences Center (YMSC) at Tsinghua University in Beijing.
 

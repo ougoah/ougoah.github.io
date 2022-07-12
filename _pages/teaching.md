@@ -7,11 +7,11 @@ redirect_from:
 ---
   
   
-## Teaching
+# Teaching
+<hr style="height:1pt;"/>
 
-In the Fall of 2022, I will be teaching:
+In the Fall of 2022, I will be teaching linear algebra at Tsinghua.
 
-* Linear algebra (Tsinghua)  
 
 <hr style="height:1pt; visibility:hidden;" />
   

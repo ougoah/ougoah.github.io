@@ -6,9 +6,9 @@ redirect_from:
   - /writing.html
 ---   
   
-## Writing
+# Writing
 
-### Research articles
+## Research articles
 
 * Covering complexity, scalar curvature, and quantitative K-theory (with G. Yu)  
 [arXiv](https://arxiv.org/abs/2203.15003)
@@ -53,7 +53,7 @@ redirect_from:
 [arXiv](https://arxiv.org/abs/1609.01404) &nbsp;\|&nbsp; [journal](https://www.ems-ph.org/journals/show_abstract.php?issn=1661-6952&vol=13&iss=4&rank=5)
 
 
-### Other articles
+## Other articles
 
 * Positive scalar curvature and Callias-type index theorems for proper actions.  
 <span style="font-weight:410">Bulletin of the Australian Mathematical Society</span>  
