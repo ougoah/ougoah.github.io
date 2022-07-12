@@ -13,7 +13,7 @@ redirect_from:
 
 I'm an Assistant Professor at the Yau Mathematical Sciences Center at Tsinghua University.
 
-On this website you can find a list of my written work and information about my teaching and organisational activities, past and present.
+Here you can find a list of my written work and information about my teaching and organisational activities, past and present.
 
 Before coming to Tsinghua, I was a postdoc at Texas A&M University working with [Guoliang Yu](https://www.math.tamu.edu/~guoliangyu/). I received my Ph.D. in December 2018 from the University of Adelaide under the direction of [Mathai Varghese](http://www.maths.adelaide.edu.au/mathai.varghese/) and [Hang Wang](https://math.ecnu.edu.cn/~wanghang/intro_c.html?language=2&id=204).
 
