@@ -1,3 +1,6 @@
+@import url("https://fonts.googleapis.com/css?family=Inter:300,320,340,360,370,380,400,410,420,440,460,480,500,520,540,560,580,600,620,620,660,680,700");
+
+
 /* ==========================================================================
    BASE ELEMENTS
    ========================================================================== */
@@ -13,7 +16,7 @@ body {
   padding-bottom: 9em;
   color: $text-color;
   font-family: $global-font-family;
-  font-weight: 300;
+  font-weight: 370;
   line-height: 1.5;
 
   &.overflow--hidden {
@@ -26,7 +29,7 @@ h1, h2, h3, h4, h5, h6 {
   margin: 2em 0 0.5em;
   line-height: 1.2;
   font-family: $global-font-family;
-  font-weight: 500;
+  font-weight: 540;
 }
 
 h1 {
