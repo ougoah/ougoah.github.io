@@ -7,7 +7,10 @@ redirect_from:
 ---
   
   
-# Teaching
+<hr style="height:1pt; visibility:hidden;" />
+<hr style="height:1pt; visibility:hidden;" />
+
+<span style="font-size:1.7em; font-weight:410;">Teaching</span>
 <hr style="height:1pt;"/>
 
 In the Fall of 2022, I will be teaching linear algebra at Tsinghua.

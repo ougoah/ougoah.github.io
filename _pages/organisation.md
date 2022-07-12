@@ -7,7 +7,10 @@ redirect_from:
 ---
   
   
-# Organisation
+<hr style="height:1pt; visibility:hidden;" />
+<hr style="height:1pt; visibility:hidden;" />
+
+<span style="font-size:1.7em; font-weight:410;">Organisation</span>
 <hr style="height:1pt;"/>
 
 Here are some things I've helped organise in the past:  

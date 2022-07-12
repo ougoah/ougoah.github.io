@@ -8,7 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-# Welcome
+<hr style="height:1pt; visibility:hidden;" />
+<hr style="height:1pt; visibility:hidden;" />
+
+<span style="font-size:1.7em; font-weight:410;">Welcome</span>
 <hr style="height:1pt;"/>
 
 I'm an Assistant Professor at the Yau Mathematical Sciences Center (YMSC) at Tsinghua University in Beijing.

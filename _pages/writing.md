@@ -5,10 +5,13 @@ author_profile: true
 redirect_from: 
   - /writing.html
 ---   
-  
-# Writing
+<hr style="height:1pt; visibility:hidden;" />
+<hr style="height:1pt; visibility:hidden;" />
 
-## Research articles
+<span style="font-size:1.7em; font-weight:410;">Writing</span>
+<hr style="height:1pt;"/>
+
+<span style="font-size:1.2em; font-weight:410;">Research articles</span>  
 
 * Covering complexity, scalar curvature, and quantitative K-theory (with G. Yu)  
 [arXiv](https://arxiv.org/abs/2203.15003)
@@ -50,10 +53,10 @@ redirect_from:
 
 * Positive scalar curvature and Poincaré duality for proper actions (with V. Mathai and H. Wang)  
 <span style="font-weight:410">Journal of Noncommutative Geometry</span>  
-[arXiv](https://arxiv.org/abs/1609.01404) &nbsp;\|&nbsp; [journal](https://www.ems-ph.org/journals/show_abstract.php?issn=1661-6952&vol=13&iss=4&rank=5)
+[arXiv](https://arxiv.org/abs/1609.01404) &nbsp;\|&nbsp; [journal](https://www.ems-ph.org/journals/show_abstract.php?issn=1661-6952&vol=13&iss=4&rank=5)  
+<hr style="height:1pt; visibility:hidden;" />
 
-
-## Other articles
+<span style="font-size:1.2em; font-weight:410;">Other articles</span>
 
 * Positive scalar curvature and Callias-type index theorems for proper actions.  
 <span style="font-weight:410">Bulletin of the Australian Mathematical Society</span>  
