@@ -23,7 +23,7 @@ redirect_from:
 * Higher localised A-hat-genera for proper actions and applications (with V. Mathai)  
 [arXiv](https://arxiv.org/abs/2108.01838)
 
-* An equivariant Poincaré duality for proper cocompact actions by matrix groups (with V. Mathai).   
+* An equivariant Poincaré duality for proper cocompact actions by matrix groups (with V. Mathai)   
 <span style="font-weight:410">Journal of Noncommutive Geometry</span>, to appear  
 [arXiv](https://arxiv.org/abs/2009.13695)
 
@@ -47,11 +47,11 @@ redirect_from:
 <span style="font-weight:410">Annals of K-Theory</span>  
 [arXiv](https://arxiv.org/abs/2001.07336) &nbsp;\|&nbsp; [journal](https://msp.org/akt/2021/6-2/p03.xhtml)
 
-* Coarse geometry and Callias quantisation. (with P. Hochs and V. Mathai)  
+* Coarse geometry and Callias quantisation (with P. Hochs and V. Mathai)  
 <span style="font-weight:410">Transactions of the American Mathematical Society</span>  
 [arXiv](https://arxiv.org/abs/1909.11815) &nbsp;\|&nbsp; [journal](https://www.ams.org/journals/tran/2021-374-04/S0002-9947-2021-08202-1/)
 
-* Index of equivariant Callias-type operators and invariant metrics of positive scalar curvature.  
+* Index of equivariant Callias-type operators and invariant metrics of positive scalar curvature  
 <span style="font-weight:410">Journal of Geometric Analysis</span>  
 [arXiv](https://arxiv.org/abs/1803.05558) &nbsp;\|&nbsp; [journal](https://link.springer.com/article/10.1007/s12220-019-00249-5)
 
@@ -62,7 +62,7 @@ redirect_from:
 
 <span style="font-size:1.2em; font-weight:410;">Other articles</span>
 
-* Positive scalar curvature and Callias-type index theorems for proper actions.  
+* Positive scalar curvature and Callias-type index theorems for proper actions  
 <span style="font-weight:410">Bulletin of the Australian Mathematical Society</span>  
 [journal](https://www.cambridge.org/core/journals/bulletin-of-the-australian-mathematical-society/article/positive-scalar-curvature-and-calliastype-index-theorems-for-proper-actions/E00F408F43847215516DD8296E2477D2)
 
