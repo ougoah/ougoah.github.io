@@ -28,7 +28,7 @@ redirect_from:
 [arXiv](https://arxiv.org/abs/2009.13695)
 
 * Quantitative K-theory, positive scalar curvature, and band width (with Z. Xie and G. Yu)  
-<span style="font-weight:410">Perspectives on Scalar Curvature</span>, eds. M. Gromov, H. B. Lawson
+<span style="font-weight:410">Perspectives on Scalar Curvature</span>, eds. M. Gromov, H. B. Lawson  
 [arXiv](https://arxiv.org/abs/2010.01749) &nbsp;\|&nbsp; [published](https://doi.org/10.1142/9789811249365 0021)
 
 * A Lichnerowicz vanishing theorem for the maximal Roe algebra (with Z. Xie and G. Yu)  
