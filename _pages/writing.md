@@ -15,7 +15,7 @@ redirect_from:
 
 * A geometric Elliott invariant and noncommutative rigidity of mapping
   tori (with V. Proietti and H. Wang)  
-[[arXiv](https://arxiv.org/abs/2207.06840)&nbsp;\|&nbsp;<span style="color:#7a8288;">submitted</span>]
+<span style="color:#7a8288;">[[arXiv](https://arxiv.org/abs/2207.06840)&nbsp;\|&nbsp;submitted]</span>
 
 * Covering complexity, scalar curvature, and quantitative K-theory (with G. Yu)  
 [[arXiv](https://arxiv.org/abs/2203.15003)&nbsp;\|&nbsp;submitted]
