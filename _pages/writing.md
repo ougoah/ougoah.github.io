@@ -14,25 +14,25 @@ redirect_from:
 
 <span style="font-size:1.2em; font-weight:410;">Research articles</span>  
 
-<!-- Colours: #82E0AA (to appear), #F7DC6F (submitted) -->
+<!-- Colours: #D4AC0D(submitted), #27AE60(to appear) -->
 
 * A geometric Elliott invariant and noncommutative rigidity of mapping
   tori (with V. Proietti and H. Wang)  
-[arXiv](https://arxiv.org/abs/2207.06840)&nbsp;<span style="color:#E7E7E7;">\|</span>&nbsp;<span style="color:#F7DC6F;">submitted</span>
+[arXiv](https://arxiv.org/abs/2207.06840)&nbsp;<span style="color:#E7E7E7;">\|</span>&nbsp;<span style="color:#D4AC0D;">submitted</span>
 
 * Covering complexity, scalar curvature, and quantitative K-theory (with G. Yu)  
-[arXiv](https://arxiv.org/abs/2203.15003)&nbsp;<span style="color:#E7E7E7;">\|</span>&nbsp;<span style="color:#F7DC6F;">submitted</span>
+[arXiv](https://arxiv.org/abs/2203.15003)&nbsp;<span style="color:#E7E7E7;">\|</span>&nbsp;<span style="color:#D4AC0D;">submitted</span>
 
 * Higher localised A-hat-genera for proper actions and applications (with V. Mathai)  
-[arXiv](https://arxiv.org/abs/2108.01838)&nbsp;<span style="color:#E7E7E7;">\|</span>&nbsp;<span style="color:#F7DC6F;">submitted</span>
+[arXiv](https://arxiv.org/abs/2108.01838)&nbsp;<span style="color:#E7E7E7;">\|</span>&nbsp;<span style="color:#D4AC0D;">submitted</span>
 
 * An equivariant Poincaré duality for proper cocompact actions by matrix groups (with V. Mathai)   
 <span style="font-weight:410">Journal of Noncommutive Geometry</span>  
-[arXiv](https://arxiv.org/abs/2009.13695)&nbsp;<span style="color:#E7E7E7;">\|</span>&nbsp;<span style="color:#82E0AA;">to appear</span>
+[arXiv](https://arxiv.org/abs/2009.13695)&nbsp;<span style="color:#E7E7E7;">\|</span>&nbsp;<span style="color:#27AE60;">to appear</span>
 
 * Quantitative K-theory, positive scalar curvature, and band width (with Z. Xie and G. Yu)  
 <span style="font-weight:410">Perspectives on Scalar Curvature</span>, eds. M. Gromov, H. B. Lawson  
-[arXiv](https://arxiv.org/abs/2010.01749)&nbsp;<span style="color:#E7E7E7;">\|</span>&nbsp;<span style="color:#82E0AA;">to appear</span>
+[arXiv](https://arxiv.org/abs/2010.01749)&nbsp;<span style="color:#E7E7E7;">\|</span>&nbsp;<span style="color:#27AE60;">to appear</span>
 
 * A Lichnerowicz vanishing theorem for the maximal Roe algebra (with Z. Xie and G. Yu)  
 <span style="font-weight:410">Mathematische Annalen</span>  
