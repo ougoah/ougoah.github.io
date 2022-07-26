@@ -36,7 +36,7 @@ redirect_from:
 
 * A Lichnerowicz vanishing theorem for the maximal Roe algebra (with Z. Xie and G. Yu)  
 <span style="font-weight:410">Mathematische Annalen</span>  
-[arXiv](https://arxiv.org/abs/1905.12299)&nbsp;<span style="color:#E7E7E7;">\|</span>&nbsp;<span style="color:#D4AC0D;">[published](https://link.springer.com/article/10.1007/s00208-021-02333-0)</span>
+[arXiv](https://arxiv.org/abs/1905.12299)&nbsp;<span style="color:#E7E7E7;">\|</span>&nbsp;[published](https://link.springer.com/article/10.1007/s00208-021-02333-0)
 
 * Equivariant Callias index theory via coarse geometry (with P. Hochs and V. Mathai)  
 <span style="font-weight:410">Annales de l'Institut Fourier</span>  
