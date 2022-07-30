@@ -35,13 +35,13 @@ redirect_from:
 <span style="font-weight:410">Perspectives on Scalar Curvature</span>, eds. M. Gromov, H. B. Lawson  
 [arXiv](https://arxiv.org/abs/2010.01749)&nbsp;<span style="color:#E7E7E7;">\|</span>&nbsp;<span style="color:#27AE60;">to appear</span>
 
-* Functoriality for higher rho invariants of elliptic operators (with Z. Xie and G. Yu)  
-<span style="font-weight:410">Journal of Functional Analysis</span>  
-[arXiv](https://arxiv.org/abs/2005.01933)&nbsp;<span style="color:#E7E7E7;">\|</span>&nbsp;[published](https://www.sciencedirect.com/science/article/abs/pii/S0022123621000483)
-
 * Positive scalar curvature and an equivariant Callias-type index theorem for proper actions (with P. Hochs and V. Mathai)  
 <span style="font-weight:410">Annals of K-Theory</span>  
 [arXiv](https://arxiv.org/abs/2001.07336)&nbsp;<span style="color:#E7E7E7;">\|</span>&nbsp;[published](https://msp.org/akt/2021/6-2/p03.xhtml)
+
+* Functoriality for higher rho invariants of elliptic operators (with Z. Xie and G. Yu)  
+<span style="font-weight:410">Journal of Functional Analysis</span>  
+[arXiv](https://arxiv.org/abs/2005.01933)&nbsp;<span style="color:#E7E7E7;">\|</span>&nbsp;[published](https://www.sciencedirect.com/science/article/abs/pii/S0022123621000483)
 
 * Coarse geometry and Callias quantisation (with P. Hochs and V. Mathai)  
 <span style="font-weight:410">Transactions of the American Mathematical Society</span>  
