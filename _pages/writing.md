@@ -35,14 +35,6 @@ redirect_from:
 <span style="font-weight:410">Perspectives on Scalar Curvature</span>, eds. M. Gromov, H. B. Lawson  
 [arXiv](https://arxiv.org/abs/2010.01749)&nbsp;<span style="color:#E7E7E7;">\|</span>&nbsp;<span style="color:#27AE60;">to appear</span>
 
-* A Lichnerowicz vanishing theorem for the maximal Roe algebra (with Z. Xie and G. Yu)  
-<span style="font-weight:410">Mathematische Annalen</span>  
-[arXiv](https://arxiv.org/abs/1905.12299)&nbsp;<span style="color:#E7E7E7;">\|</span>&nbsp;[published](https://link.springer.com/article/10.1007/s00208-021-02333-0)
-
-* Equivariant Callias index theory via coarse geometry (with P. Hochs and V. Mathai)  
-<span style="font-weight:410">Annales de l'Institut Fourier</span>  
-[arXiv](https://arxiv.org/abs/1902.07391)&nbsp;<span style="color:#E7E7E7;">\|</span>&nbsp;[published](https://aif.centre-mersenne.org/articles/10.5802/aif.3445/)
-
 * Functoriality for higher rho invariants of elliptic operators (with Z. Xie and G. Yu)  
 <span style="font-weight:410">Journal of Functional Analysis</span>  
 [arXiv](https://arxiv.org/abs/2005.01933)&nbsp;<span style="color:#E7E7E7;">\|</span>&nbsp;[published](https://www.sciencedirect.com/science/article/abs/pii/S0022123621000483)
@@ -54,6 +46,14 @@ redirect_from:
 * Coarse geometry and Callias quantisation (with P. Hochs and V. Mathai)  
 <span style="font-weight:410">Transactions of the American Mathematical Society</span>  
 [arXiv](https://arxiv.org/abs/1909.11815)&nbsp;<span style="color:#E7E7E7;">\|</span>&nbsp;[published](https://www.ams.org/journals/tran/2021-374-04/S0002-9947-2021-08202-1/)
+
+* A Lichnerowicz vanishing theorem for the maximal Roe algebra (with Z. Xie and G. Yu)  
+<span style="font-weight:410">Mathematische Annalen</span>  
+[arXiv](https://arxiv.org/abs/1905.12299)&nbsp;<span style="color:#E7E7E7;">\|</span>&nbsp;[published](https://link.springer.com/article/10.1007/s00208-021-02333-0)
+
+* Equivariant Callias index theory via coarse geometry (with P. Hochs and V. Mathai)  
+<span style="font-weight:410">Annales de l'Institut Fourier</span>  
+[arXiv](https://arxiv.org/abs/1902.07391)&nbsp;<span style="color:#E7E7E7;">\|</span>&nbsp;[published](https://aif.centre-mersenne.org/articles/10.5802/aif.3445/)
 
 * Index of equivariant Callias-type operators and invariant metrics of positive scalar curvature  
 <span style="font-weight:410">Journal of Geometric Analysis</span>  
