@@ -25,7 +25,7 @@ redirect_from:
 
 * Higher localised A-hat-genera for proper actions and applications (with V. Mathai)  
 <span style="font-weight:410">Journal of Functional Analysis</span>   
-[arXiv](https://arxiv.org/abs/2108.01838)&nbsp;<span style="color:#E7E7E7;">\|</span>&nbsp;<span style="color:#27AE60;">to appear</span>
+[arXiv](https://arxiv.org/abs/2108.01838)&nbsp;<span style="color:#E7E7E7;">\|</span>&nbsp;<span style="color:#D4AC0D;">submitted</span>
 
 * An equivariant Poincaré duality for proper cocompact actions by matrix groups (with V. Mathai)   
 <span style="font-weight:410">Journal of Noncommutive Geometry</span>  
