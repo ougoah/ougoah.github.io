@@ -14,18 +14,18 @@ redirect_from:
 
 <span style="font-size:1.2em; font-weight:410;">Research articles</span>  
 
-<!-- Colours: #D4AC0D(submitted), #27AE60(to appear) -->
+<!-- Colours: #D4AC0D(under review), #27AE60(to appear) -->
 
 * A geometric Elliott invariant and noncommutative rigidity of mapping
   tori (with V. Proietti and H. Wang)  
-[arXiv](https://arxiv.org/abs/2207.06840)&nbsp;<span style="color:#E7E7E7;">\|</span>&nbsp;<span style="color:#D4AC0D;">submitted</span>
+[arXiv](https://arxiv.org/abs/2207.06840)&nbsp;<span style="color:#E7E7E7;">\|</span>&nbsp;<span style="color:#D4AC0D;">under review</span>
 
 * Covering complexity, scalar curvature, and quantitative K-theory (with G. Yu)  
-[arXiv](https://arxiv.org/abs/2203.15003)&nbsp;<span style="color:#E7E7E7;">\|</span>&nbsp;<span style="color:#D4AC0D;">submitted</span>
+[arXiv](https://arxiv.org/abs/2203.15003)&nbsp;<span style="color:#E7E7E7;">\|</span>&nbsp;<span style="color:#D4AC0D;">under review</span>
 
 * Higher localised A-hat-genera for proper actions and applications (with V. Mathai)  
 <span style="font-weight:410">Journal of Functional Analysis</span>   
-[arXiv](https://arxiv.org/abs/2108.01838)&nbsp;<span style="color:#E7E7E7;">\|</span>&nbsp;<span style="color:#D4AC0D;">submitted</span>
+[arXiv](https://arxiv.org/abs/2108.01838)&nbsp;<span style="color:#E7E7E7;">\|</span>&nbsp;<span style="color:#D4AC0D;">under review</span>
 
 * An equivariant Poincaré duality for proper cocompact actions by matrix groups (with V. Mathai)   
 <span style="font-weight:410">Journal of Noncommutive Geometry</span>  
