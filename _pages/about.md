@@ -14,7 +14,7 @@ redirect_from:
 <span style="font-size:1.7em; font-weight:410;">Welcome</span>
 <hr style="height:1pt;"/>
 
-I'm an Assistant Professor at the Yau Mathematical Sciences Center (YMSC) at Tsinghua University in Beijing.
+I'm a tenure-track Assistant Professor at the Yau Mathematical Sciences Center (YMSC) at Tsinghua University in Beijing.
 
 Here you can find a list of my written work and information about my teaching and organisational activities, past and present.
 
