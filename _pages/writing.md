@@ -11,6 +11,12 @@ redirect_from:
 <span style="font-size:1.7em; font-weight:410;">Writing</span>
 <hr style="height:1pt;"/>
 
+<span style="font-size:1.2em; font-weight:410;">Book chapters</span>  
+
+* Quantitative K-theory, positive scalar curvature, and band width (with Z. Xie and G. Yu)  
+In <span style="font-weight:410">Perspectives on Scalar Curvature</span>, Eds. M. Gromov, H. B. Lawson  
+[arXiv](https://arxiv.org/abs/2010.01749)&nbsp;<span style="color:#E7E7E7;">\|</span>&nbsp;<span style="color:#27AE60;">to appear</span>
+
 
 <span style="font-size:1.2em; font-weight:410;">Research articles</span>  
 
@@ -31,10 +37,6 @@ redirect_from:
 * An equivariant Poincaré duality for proper cocompact actions by matrix groups (with V. Mathai)   
 <span style="font-weight:410">Journal of Noncommutive Geometry</span>  
 [arXiv](https://arxiv.org/abs/2009.13695)&nbsp;<span style="color:#E7E7E7;">\|</span>&nbsp;<span style="color:#27AE60;">to appear</span>
-
-* Quantitative K-theory, positive scalar curvature, and band width (with Z. Xie and G. Yu)  
-<span style="font-weight:410">Perspectives on Scalar Curvature</span>, eds. M. Gromov, H. B. Lawson  
-[arXiv](https://arxiv.org/abs/2010.01749)&nbsp;<span style="color:#E7E7E7;">\|</span>&nbsp;<span style="color:#27AE60;">to appear</span>
 
 * Positive scalar curvature and an equivariant Callias-type index theorem for proper actions (with P. Hochs and V. Mathai)  
 <span style="font-weight:410">Annals of K-Theory</span>  
@@ -65,7 +67,7 @@ redirect_from:
 [arXiv](https://arxiv.org/abs/1609.01404)&nbsp;<span style="color:#E7E7E7;">\|</span>&nbsp;[published](https://www.ems-ph.org/journals/show_abstract.php?issn=1661-6952&vol=13&iss=4&rank=5)
 <hr style="height:1pt; visibility:hidden;" />
 
-<span style="font-size:1.2em; font-weight:410;">Other articles</span>
+<span style="font-size:1.2em; font-weight:410;">Expository articles</span>
 
 * Positive scalar curvature and Callias-type index theorems for proper actions  
 <span style="font-weight:410">Bulletin of the Australian Mathematical Society</span>  
@@ -74,3 +76,4 @@ redirect_from:
 * A Poincaré duality in K-theory  
 <span style="font-weight:410">Australian Mathematical Society Gazette</span>  
 [published](https://www.austms.org.au/Publ/Gazette/2017/Mar17/TechGuo.pdf)
+<span style="font-size:1.2em; font-weight:410;">Research articles</span>  
