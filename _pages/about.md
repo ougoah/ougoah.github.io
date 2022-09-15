@@ -11,7 +11,7 @@ redirect_from:
 <hr style="height:1pt; visibility:hidden;" />
 <hr style="height:1pt; visibility:hidden;" />
 
-<span style="font-size:1.7em; font-weight:410;">Welcome</span>
+<span style="font-size:1.7em; font-weight:410;">About me</span>
 <hr style="height:1pt;"/>
 
 I'm a tenure-track Assistant Professor at the Yau Mathematical Sciences Center (YMSC) at Tsinghua University in Beijing.
