@@ -31,13 +31,13 @@ In <span style="font-weight:410">Perspectives on Scalar Curvature</span>, Eds. M
 <span style="font-weight:410">Quarterly Journal of Mathematics</span>  
 [arXiv](https://arxiv.org/abs/2203.15003)&nbsp;<span style="color:#E7E7E7;">\|</span>&nbsp;<span style="color:#27AE60;">to appear</span>
 
-* Higher localised A-hat-genera for proper actions and applications (with V. Mathai)  
-<span style="font-weight:410">Journal of Functional Analysis</span>  
-[arXiv](https://arxiv.org/abs/2108.01838)&nbsp;<span style="color:#E7E7E7;">\|</span>&nbsp;<span style="color:#27AE60;">to appear</span>
-
 * An equivariant Poincaré duality for proper cocompact actions by matrix groups (with V. Mathai)   
 <span style="font-weight:410">Journal of Noncommutive Geometry</span>  
 [arXiv](https://arxiv.org/abs/2009.13695)&nbsp;<span style="color:#E7E7E7;">\|</span>&nbsp;<span style="color:#27AE60;">to appear</span>
+
+* Higher localised A-hat-genera for proper actions and applications (with V. Mathai)  
+<span style="font-weight:410">Journal of Functional Analysis</span>  
+[arXiv](https://arxiv.org/abs/2108.01838)&nbsp;<span style="color:#E7E7E7;">\|</span>&nbsp;[published](https://www.sciencedirect.com/science/article/pii/S0022123622003159)
 
 * Positive scalar curvature and an equivariant Callias-type index theorem for proper actions (with P. Hochs and V. Mathai)  
 <span style="font-weight:410">Annals of K-Theory</span>  
