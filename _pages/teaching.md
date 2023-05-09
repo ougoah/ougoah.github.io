@@ -31,4 +31,4 @@ In the past, I have enjoyed teaching:
 
 * Math152 Calculus II, Fall 2018 (Texas A&M)  
 
-In 2019, I received an Outstanding Teaching Award from the Department of Mathematics at Texas A&M.
+I received an Outstanding Teaching Award from the Department of Mathematics at Texas A&M for the year 2019.
