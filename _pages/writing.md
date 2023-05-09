@@ -8,11 +8,13 @@ redirect_from:
 <hr style="height:1pt; visibility:hidden;" />
 <hr style="height:1pt; visibility:hidden;" />
 
+
 <!--
 [arXiv](https://)&nbsp;<span style="color:#E7E7E7;">\|</span>&nbsp;<span style="color:#27AE60;">to appear</span>
 [arXiv](https://)&nbsp;<span style="color:#E7E7E7;">\|</span>&nbsp;<span style="color:#D4AC0D;">under review</span>
 [arXiv](https://)&nbsp;<span style="color:#E7E7E7;">\|</span>&nbsp;[published](https://)
 -->
+
 
 <span style="font-size:1.7em; font-weight:410;">Writing</span>
 <hr style="height:1pt;"/>
@@ -39,7 +41,7 @@ In <span style="font-weight:410">Perspectives on Scalar Curvature</span>, Eds. M
 
 * An equivariant Poincaré duality for proper cocompact actions by matrix groups (with V. Mathai)   
 <span style="font-weight:410">Journal of Noncommutive Geometry</span>  
-[arXiv](https://arxiv.org/abs/2009.13695)&nbsp;<span style="color:#E7E7E7;">\|</span>&nbsp;<span style="color:#27AE60;">to appear</span>
+[arXiv](https://arxiv.org/abs/2009.13695)&nbsp;<span style="color:#E7E7E7;">\|</span>&nbsp;[published](https://ems.press/journals/jncg/articles/8188716)
 
 * Higher localised A-hat-genera for proper actions and applications (with V. Mathai)  
 <span style="font-weight:410">Journal of Functional Analysis</span>  
