@@ -13,13 +13,17 @@ redirect_from:
 <span style="font-size:1.7em; font-weight:410;">Teaching</span>
 <hr style="height:1pt;"/>
 
-In the Fall of 2022, I will be teaching linear algebra at Tsinghua.
+In Fall 2023, I will be teaching Linear Algebra for social science students at Tsinghua.
 
 
 <hr style="height:1pt; visibility:hidden;" />
   
   
 In the past, I have enjoyed teaching:
+
+* C*-algebras, Spring 2023 (Tsinghua)
+
+* Linear Algebra for social science students, Fall 2022 (Tsinghua)
 
 * Math304 Linear Algebra, Spring 2020 (Texas A&M)
 
