@@ -8,6 +8,12 @@ redirect_from:
 <hr style="height:1pt; visibility:hidden;" />
 <hr style="height:1pt; visibility:hidden;" />
 
+<!--
+[arXiv](https://)&nbsp;<span style="color:#E7E7E7;">\|</span>&nbsp;<span style="color:#27AE60;">to appear</span>
+[arXiv](https://)&nbsp;<span style="color:#E7E7E7;">\|</span>&nbsp;<span style="color:#D4AC0D;">under review</span>
+[arXiv](https://)&nbsp;<span style="color:#E7E7E7;">\|</span>&nbsp;[published](https://)
+-->
+
 <span style="font-size:1.7em; font-weight:410;">Writing</span>
 <hr style="height:1pt;"/>
 
@@ -15,7 +21,7 @@ redirect_from:
 
 * Quantitative K-theory, positive scalar curvature, and band width (with Z. Xie and G. Yu)  
 In <span style="font-weight:410">Perspectives on Scalar Curvature</span>, Eds. M. Gromov, H. B. Lawson  
-[arXiv](https://arxiv.org/abs/2010.01749)&nbsp;<span style="color:#E7E7E7;">\|</span>&nbsp;<span style="color:#27AE60;">to appear</span>
+[arXiv](https://arxiv.org/abs/2010.01749)&nbsp;<span style="color:#E7E7E7;">\|</span>&nbsp;[published](https://doi.org/10.1142/9789811273230_0021)
 <hr style="height:1pt; visibility:hidden;" />
 
 
