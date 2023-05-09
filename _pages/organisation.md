@@ -13,7 +13,7 @@ redirect_from:
 <span style="font-size:1.7em; font-weight:410;">Organisation</span>
 <hr style="height:1pt;"/>
 
-Here are some things I've helped organise in the past:  
+Here are some things I've helped organise:  
 
 * [Texas A&M Math Circle](https://sites.google.com/tamu.edu/tamu-math-circle)
 
