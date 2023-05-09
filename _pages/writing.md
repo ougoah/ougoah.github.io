@@ -74,11 +74,13 @@ In <span style="font-weight:410">Perspectives on Scalar Curvature</span>, Eds. M
 * Positive scalar curvature and Poincaré duality for proper actions (with V. Mathai and H. Wang)  
 <span style="font-weight:410">Journal of Noncommutative Geometry</span>  
 [arXiv](https://arxiv.org/abs/1609.01404)&nbsp;<span style="color:#E7E7E7;">\|</span>&nbsp;[published](https://www.ems-ph.org/journals/show_abstract.php?issn=1661-6952&vol=13&iss=4&rank=5)
-<hr style="height:1pt; visibility:hidden;" />
 
-* Positive scalar curvature and Callias-type index theorems for proper actions  
+* Positive scalar curvature and Callias-type index theorems for proper actions
 <span style="font-weight:410">Bulletin of the Australian Mathematical Society</span>  
 [published](https://www.cambridge.org/core/journals/bulletin-of-the-australian-mathematical-society/article/positive-scalar-curvature-and-calliastype-index-theorems-for-proper-actions/E00F408F43847215516DD8296E2477D2)
+
+<hr style="height:1pt; visibility:hidden;" />
+
 
 <span style="font-size:1.2em; font-weight:410;">Other articles</span>
 
