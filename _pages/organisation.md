@@ -26,3 +26,7 @@ Here are some things I've helped organise:
 * [Symposium for the 25th Anniversary of the Institute for Geometry and Its Applications](http://www.iga.adelaide.edu.au/workshops/iga25/index.html), University of Adelaide 2021
 
 * Operator Algebras and Noncommutative Geometry special session at AustMS 2021
+
+<!--
+![alt text for screen readers](beijing.jpg "Text to show on mouseover")
+-->
