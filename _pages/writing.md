@@ -8,7 +8,7 @@ redirect_from:
 <hr style="height:1pt; visibility:hidden;" />
 <hr style="height:1pt; visibility:hidden;" />
 <style>
-	fontitalic{
+fontitalic{
     	font-style:italic;
 }
 </style>
