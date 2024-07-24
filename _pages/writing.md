@@ -7,11 +7,6 @@ redirect_from:
 ---   
 <hr style="height:1pt; visibility:hidden;" />
 <hr style="height:1pt; visibility:hidden;" />
-<style type="text/css" rel="stylesheet">
-fontitalic{
-    	font-style:italic;
-}
-</style>
 
 <!--
 [arXiv](https://)&nbsp;<span style="color:#E7E7E7;">\|</span>&nbsp;<span style="color:#27AE60;">to appear</span>
@@ -36,14 +31,14 @@ In <span style="font-weight:410">Perspectives on Scalar Curvature</span>, Eds. M
 <!-- Colours: #D4AC0D(under review), #27AE60(to appear) -->
 
 * A higher index on finite-volume locally symmetric spaces (with P. Hochs and H. Wang)  
-[arXiv](https://arxiv.org/abs/0000.00000)&nbsp;<span style="color:#E7E7E7;">\|</span>&nbsp;<span style="color:#D4AC0D;">to be submitted</span>
+[arXiv](https://arxiv.org/abs/0000.00000)&nbsp;<span style="color:#E7E7E7;">\|</span>&nbsp;<span style="color:#D4AC0D;">new</span>
 
 * A geometric Elliott invariant and noncommutative rigidity of mapping
   tori (with V. Proietti and H. Wang)  
 [arXiv](https://arxiv.org/abs/2207.06840)&nbsp;<span style="color:#E7E7E7;">\|</span>&nbsp;<span style="color:#D4AC0D;">under review</span>
 
 * Covering complexity, scalar curvature, and quantitative K-theory (with G. Yu)  
-<span style=fontitalic>Pure and Applied Mathematics Quarterly</span>  
+<span style="font-weight:410">Pure and Applied Mathematics Quarterly</span>  
 [arXiv](https://arxiv.org/abs/2203.15003)&nbsp;<span style="color:#E7E7E7;">\|</span>&nbsp;[published](https://www.intlpress.com/site/pub/pages/journals/items/pamq/content/vols/0019/0006/a013/)
 
 * An equivariant Poincaré duality for proper cocompact actions by matrix groups (with V. Mathai)   
