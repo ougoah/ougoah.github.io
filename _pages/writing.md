@@ -32,7 +32,7 @@ In <span style="font-weight:410">Perspectives on Scalar Curvature</span>, Eds. M
 <!-- Colours: #D4AC0D(under review), #27AE60(to appear) -->
 
 * A higher index on finite-volume locally symmetric spaces (with P. Hochs and H. Wang)  
-[arXiv](https://arxiv.org/abs/2407.16275)&nbsp;<span style="color:#E7E7E7;">\|</span>&nbsp;<span style="color:#D4AC0D;">new</span>
+[arXiv](https://arxiv.org/abs/2407.16275)&nbsp;<span style="color:#E7E7E7;">\|</span>&nbsp;<span style="color:#6EBFF3;">new</span>
 
 * A geometric Elliott invariant and noncommutative rigidity of mapping
   tori (with V. Proietti and H. Wang)  
