@@ -13,14 +13,8 @@ redirect_from:
 <span style="font-size:1.7em; font-weight:410;">Teaching</span>
 <hr style="height:1pt;"/>
 
-In Fall 2023, I will be teaching Linear Algebra for social science students at Tsinghua.
-
-
 <hr style="height:1pt; visibility:hidden;" />
   
-  
-In the past, I have enjoyed teaching:
-
 * Index Theory, Spring 2024 (Tsinghua)
 
 * Linear Algebra for social science students, Fall 2023 (Tsinghua)
@@ -33,6 +27,4 @@ In the past, I have enjoyed teaching:
 
 * Math311 Topics in Applied Mathematics I: Linear Algebra & Vector Calculus, Spring 2019 (Texas A&M)
 
-* Math152 Calculus II, Fall 2018 (Texas A&M)  
-
-I received an Outstanding Teaching Award from the Department of Mathematics at Texas A&M for the year 2019.
+* Math152 Calculus II, Fall 2018 (Texas A&M)
