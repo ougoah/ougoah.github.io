@@ -11,7 +11,7 @@ redirect_from:
 <!--
 [arXiv](https://)&nbsp;<span style="color:#E7E7E7;">\|</span>&nbsp;<span style="color:#27AE60;">to appear</span>
 [arXiv](https://)&nbsp;<span style="color:#E7E7E7;">\|</span>&nbsp;<span style="color:#D4AC0D;">under review</span>
-[arXiv](https://)&nbsp;<span style="color:#E7E7E7;">\|</span>&nbsp;<span style="color:#6EBFF3;">new</span>
+[arXiv](https://)&nbsp;<span style="color:#E7E7E7;">\|</span>&nbsp;<span style="color:#A9A9A9;">new</span>
 [arXiv](https://)&nbsp;<span style="color:#E7E7E7;">\|</span>&nbsp;[journal](https://)
 -->
 
