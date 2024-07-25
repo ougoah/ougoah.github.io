@@ -21,7 +21,7 @@ redirect_from:
 
 <span style="font-size:1.2em; font-weight:410;">Book chapters</span>  
 
-* Quantitative K-theory, positive scalar curvature, and band width (with Z. Xie and G. Yu)  
+* Quantitative K-theory, positive scalar curvature, and band width (with Zx. Xie and G. Yu)  
 In <span style="font-weight:410">Perspectives on Scalar Curvature</span>, Eds. M. Gromov, H. B. Lawson  
 [arXiv](https://arxiv.org/abs/2010.01749)&nbsp;<span style="color:#E7E7E7;">\|</span>&nbsp;[book](https://doi.org/10.1142/9789811273230_0021)
 <hr style="height:1pt; visibility:hidden;" />

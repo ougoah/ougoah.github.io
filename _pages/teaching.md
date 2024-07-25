@@ -21,6 +21,10 @@ In Fall 2023, I will be teaching Linear Algebra for social science students at T
   
 In the past, I have enjoyed teaching:
 
+* Index Theory, Spring 2024 (Tsinghua)
+
+* Linear Algebra for social science students, Fall 2023 (Tsinghua)
+
 * C*-algebras, Spring 2023 (Tsinghua)
 
 * Linear Algebra for social science students, Fall 2022 (Tsinghua)
