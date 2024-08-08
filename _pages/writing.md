@@ -32,11 +32,12 @@ In <span style="font-weight:410">Perspectives on Scalar Curvature</span>, Eds. M
 <!-- Colours: #D4AC0D(under review), #27AE60(to appear) -->
 
 * A higher index on finite-volume locally symmetric spaces (with P. Hochs and H. Wang)  
-[arXiv](https://arxiv.org/abs/2407.16275)&nbsp;<span style="color:#E7E7E7;">\|</span>&nbsp;<span style="color:#A9A9A9;">new</span>
+[arXiv](https://arxiv.org/abs/2407.16275)&nbsp;<span style="color:#E7E7E7;">\|</span>&nbsp;<span style="color:#D4AC0D;">new</span>
 
 * A geometric Elliott invariant and noncommutative rigidity of mapping
   tori (with V. Proietti and H. Wang)  
-[arXiv](https://arxiv.org/abs/2207.06840)&nbsp;<span style="color:#E7E7E7;">\|</span>&nbsp;<span style="color:#D4AC0D;">under review</span>
+<span style="font-weight:410">Journal of Functional Analysis</span>  
+[arXiv](https://arxiv.org/abs/2207.06840)&nbsp;<span style="color:#E7E7E7;">\|</span>&nbsp;<span style="color:#27AE60;">to appear</span>
 
 * Covering complexity, scalar curvature, and quantitative K-theory (with G. Yu)  
 <span style="font-weight:410">Pure and Applied Mathematics Quarterly</span>  
