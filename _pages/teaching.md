@@ -14,6 +14,7 @@ redirect_from:
 <hr style="height:1pt;"/>
 
 <hr style="height:1pt; visibility:hidden;" />
+* Analysis I, Fall 2024 (Tsinghua)
   
 * Index Theory, Spring 2024 (Tsinghua)
 
