@@ -36,7 +36,7 @@ In <span style="font-weight:410">Perspectives on Scalar Curvature</span>, Eds. M
 * A geometric Elliott invariant and noncommutative rigidity of mapping
   tori (with V. Proietti and H. Wang)  
 <span style="font-weight:410">Journal of Functional Analysis</span>  
-[arXiv](https://arxiv.org/abs/2207.06840)&nbsp;<span style="color:#E7E7E7;">\|</span>&nbsp;<span style="color:#27AE60;">to appear</span>
+[arXiv](https://arxiv.org/abs/2207.06840)&nbsp;<span style="color:#E7E7E7;">\|</span>&nbsp;[journal](https://www.sciencedirect.com/science/article/pii/S0022123624003136)
 
 * Covering complexity, scalar curvature, and quantitative K-theory (with G. Yu)  
 <span style="font-weight:410">Pure and Applied Mathematics Quarterly</span>  
