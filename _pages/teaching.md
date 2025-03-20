@@ -14,7 +14,7 @@ redirect_from:
 <hr style="height:1pt;"/>
 
 <hr style="height:1pt; visibility:hidden;" />
-Tsinghua:
+Tsinghua
 
 * Topics in Geometry and Topology: Index Theory, Spring 2025 (Qiuzhen College)
 
