@@ -14,18 +14,25 @@ redirect_from:
 <hr style="height:1pt;"/>
 
 <hr style="height:1pt; visibility:hidden;" />
-* Analysis I, Fall 2024 (Tsinghua)
+Tsinghua:
+
+* Topics in Geometry and Topology: Index Theory, Spring 2025 (Qiuzhen College)
+
+* Analysis I, Fall 2024 (Qiuzhen College)
   
-* Index Theory, Spring 2024 (Tsinghua)
+* Topics in Geometry and Topology: Index Theory, Spring 2024 (Qiuzhen College)
 
-* Linear Algebra for social science students, Fall 2023 (Tsinghua)
+* Linear Algebra for social science, Fall 2023
 
-* C*-algebras, Spring 2023 (Tsinghua)
+* C*-algebras, Spring 2023
 
-* Linear Algebra for social science students, Fall 2022 (Tsinghua)
+* Linear Algebra for social science, Fall 2022
 
-* Math304 Linear Algebra, Spring 2020 (Texas A&M)
 
-* Math311 Topics in Applied Mathematics I: Linear Algebra & Vector Calculus, Spring 2019 (Texas A&M)
+Texas A&M
 
-* Math152 Calculus II, Fall 2018 (Texas A&M)
+* Math304 Linear Algebra, Spring 2020
+
+* Math311 Topics in Applied Mathematics I: Linear Algebra & Vector Calculus, Spring 2019
+
+* Math152 Calculus II, Fall 2018
