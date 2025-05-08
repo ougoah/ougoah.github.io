@@ -29,6 +29,8 @@ In <span style="font-weight:410">Perspectives on Scalar Curvature</span>, Eds. M
 <span style="font-size:1.2em; font-weight:410;">Research articles</span>  
 
 <!-- Colours: #D4AC0D(under review), #27AE60(to appear) -->
+* A higher index and rapidly decaying kernels (with P. Hochs and H. Wang)  
+[arXiv](https://arxiv.org/abs/2505.02498)&nbsp;<span style="color:#E7E7E7;">\|</span>&nbsp;<span style="color:#D4AC0D;">new</span>
 
 * A higher index on finite-volume locally symmetric spaces (with P. Hochs and H. Wang)  
 [arXiv](https://arxiv.org/abs/2407.16275)&nbsp;<span style="color:#E7E7E7;">\|</span>&nbsp;<span style="color:#D4AC0D;">new</span>
