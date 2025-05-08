@@ -9,8 +9,8 @@ redirect_from:
 <hr style="height:1pt; visibility:hidden;" />
 
 <!--
-[arXiv](https://)&nbsp;<span style="color:#E7E7E7;">\|</span>&nbsp;<span style="color:#27AE60;">to appear</span>
-[arXiv](https://)&nbsp;<span style="color:#E7E7E7;">\|</span>&nbsp;<span style="color:#D4AC0D;">new</span>
+[arXiv](https://)&nbsp;<span style="color:#E7E7E7;">\|</span>&nbsp;<span style="color:#D4AC0D;">to appear</span>
+[arXiv](https://)&nbsp;<span style="color:#E7E7E7;">\|</span>&nbsp;<span style="color:#27AE60;">new</span>
 [arXiv](https://)&nbsp;<span style="color:#E7E7E7;">\|</span>&nbsp;[journal](https://)
 -->
 
