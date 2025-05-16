@@ -16,6 +16,8 @@ redirect_from:
 <hr style="height:1pt; visibility:hidden;" />
 Tsinghua
 
+* Analysis I: Fall 2025 (Qiuzhen College)
+
 * Topics in Geometry and Topology: Index Theory, Spring 2025 (Qiuzhen College)
 
 * Analysis I, Fall 2024 (Qiuzhen College)
