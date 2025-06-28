@@ -15,7 +15,7 @@ redirect_from:
 
 <hr style="height:1pt; visibility:hidden;" />
 
-**Tsinghua**
+**At Tsinghua**
 
 * Analysis I, Fall 2025 (Qiuzhen College)
 
@@ -32,7 +32,7 @@ redirect_from:
 * Linear Algebra for Social Science, Fall 2022
 
 
-**Texas A&M**
+**At Texas A&M**
 
 * Math304 Linear Algebra, Spring 2020
 
