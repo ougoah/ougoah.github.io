@@ -17,7 +17,7 @@ redirect_from:
 
 **Tsinghua**
 
-* Analysis I: Fall 2025 (Qiuzhen College)
+* Analysis I, Fall 2025 (Qiuzhen College)
 
 * Topics in Geometry and Topology: Index Theory, Spring 2025 (Qiuzhen College)
 
@@ -25,11 +25,11 @@ redirect_from:
   
 * Topics in Geometry and Topology: Index Theory, Spring 2024 (Qiuzhen College)
 
-* Linear Algebra for social science, Fall 2023
+* Linear Algebra for Social Science, Fall 2023
 
 * C*-algebras, Spring 2023
 
-* Linear Algebra for social science, Fall 2022
+* Linear Algebra for Social Science, Fall 2022
 
 
 **Texas A&M**
