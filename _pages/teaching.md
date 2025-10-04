@@ -39,3 +39,7 @@ redirect_from:
 * Math311 Topics in Applied Mathematics I: Linear Algebra & Vector Calculus, Spring 2019
 
 * Math152 Calculus II, Fall 2018
+
+<hr style="height:1pt; visibility:hidden;" />
+
+[Interactive World Map](/map.html)

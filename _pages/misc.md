@@ -19,4 +19,4 @@ redirect_from:
 
 An interactive world map with zoom and pan functionality. Click on any country to see its flag and name. The map features smooth zoom controls and the ability to explore countries in detail.
 
-[View the interactive world map](/map/)
+[View the interactive world map](/map.html)
