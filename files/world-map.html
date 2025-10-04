@@ -209,7 +209,7 @@
             transition: background-color 0.2s;
         }
 
-        .dropdown-item:hover {
+        .dropdown-item:hover, .dropdown-item.selected {
             background-color: #f0f8ff;
         }
 
@@ -854,10 +854,12 @@
         function setupSearch() {
             const searchInput = document.getElementById('country-search');
             const dropdown = document.getElementById('search-dropdown');
+            let selectedIndex = -1;
 
             // Show dropdown as user types
             searchInput.addEventListener('input', (e) => {
                 const searchTerm = e.target.value.trim().toLowerCase();
+                selectedIndex = -1;
 
                 if (!searchTerm) {
                     dropdown.classList.remove('show');
@@ -893,40 +895,76 @@
                     searchInput.value = '';
                     dropdown.classList.remove('show');
                     dropdown.innerHTML = '';
+                    selectedIndex = -1;
                 }
             });
 
-            // Handle Enter key
-            searchInput.addEventListener('keypress', (e) => {
-                if (e.key === 'Enter') {
-                    const searchTerm = searchInput.value.trim().toLowerCase();
+            // Handle keyboard navigation
+            searchInput.addEventListener('keydown', (e) => {
+                const items = dropdown.querySelectorAll('.dropdown-item');
 
-                    if (!searchTerm) return;
-
-                    // Find country code by name
-                    let foundCountryId = null;
-                    for (const [code, name] of Object.entries(countryNames)) {
-                        if (name.toLowerCase() === searchTerm || name.toLowerCase().includes(searchTerm)) {
-                            foundCountryId = code;
-                            break;
-                        }
+                if (e.key === 'ArrowDown') {
+                    e.preventDefault();
+                    if (items.length > 0) {
+                        selectedIndex = (selectedIndex + 1) % items.length;
+                        updateSelection(items);
                     }
-
-                    if (foundCountryId) {
-                        selectCountry(foundCountryId);
+                } else if (e.key === 'ArrowUp') {
+                    e.preventDefault();
+                    if (items.length > 0) {
+                        selectedIndex = (selectedIndex - 1 + items.length) % items.length;
+                        updateSelection(items);
+                    }
+                } else if (e.key === 'Enter') {
+                    e.preventDefault();
+                    if (selectedIndex >= 0 && items[selectedIndex]) {
+                        const countryCode = items[selectedIndex].getAttribute('data-code');
+                        selectCountry(countryCode);
                         searchInput.value = '';
                         dropdown.classList.remove('show');
                         dropdown.innerHTML = '';
+                        selectedIndex = -1;
                     } else {
-                        alert('Country not found. Please try a different name.');
+                        const searchTerm = searchInput.value.trim().toLowerCase();
+                        if (!searchTerm) return;
+
+                        // Find country code by name
+                        let foundCountryId = null;
+                        for (const [code, name] of Object.entries(countryNames)) {
+                            if (name.toLowerCase() === searchTerm || name.toLowerCase().includes(searchTerm)) {
+                                foundCountryId = code;
+                                break;
+                            }
+                        }
+
+                        if (foundCountryId) {
+                            selectCountry(foundCountryId);
+                            searchInput.value = '';
+                            dropdown.classList.remove('show');
+                            dropdown.innerHTML = '';
+                        } else {
+                            alert('Country not found. Please try a different name.');
+                        }
                     }
                 }
             });
+
+            function updateSelection(items) {
+                items.forEach((item, index) => {
+                    if (index === selectedIndex) {
+                        item.classList.add('selected');
+                        item.scrollIntoView({ block: 'nearest' });
+                    } else {
+                        item.classList.remove('selected');
+                    }
+                });
+            }
 
             // Hide dropdown when clicking outside
             document.addEventListener('click', (e) => {
                 if (!searchInput.contains(e.target) && !dropdown.contains(e.target)) {
                     dropdown.classList.remove('show');
+                    selectedIndex = -1;
                 }
             });
         }
