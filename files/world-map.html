@@ -155,11 +155,75 @@
             margin: 10px auto;
             display: block;
         }
+
+        .search-container {
+            text-align: center;
+            margin: 20px auto 30px auto;
+            max-width: 400px;
+            position: relative;
+        }
+
+        .search-input {
+            width: 100%;
+            padding: 12px 20px;
+            font-size: 16px;
+            border: 2px solid #6b9dd4;
+            border-radius: 8px;
+            outline: none;
+            transition: border-color 0.3s;
+            box-sizing: border-box;
+        }
+
+        .search-input:focus {
+            border-color: #2c5aa0;
+        }
+
+        .search-input::placeholder {
+            color: #999;
+        }
+
+        .search-dropdown {
+            position: absolute;
+            top: 100%;
+            left: 0;
+            right: 0;
+            background: white;
+            border: 2px solid #6b9dd4;
+            border-top: none;
+            border-radius: 0 0 8px 8px;
+            max-height: 300px;
+            overflow-y: auto;
+            display: none;
+            z-index: 1000;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+
+        .search-dropdown.show {
+            display: block;
+        }
+
+        .dropdown-item {
+            padding: 12px 20px;
+            cursor: pointer;
+            text-align: left;
+            transition: background-color 0.2s;
+        }
+
+        .dropdown-item:hover {
+            background-color: #f0f8ff;
+        }
+
+        .dropdown-item:last-child {
+            border-radius: 0 0 6px 6px;
+        }
     </style>
 </head>
 <body>
     <div class="container">
-        <h1>W<span class="earth-emoji">🌍</span>rld Map</h1>
+        <div class="search-container">
+            <input type="text" id="country-search" class="search-input" placeholder="Search for a country...">
+            <div id="search-dropdown" class="search-dropdown"></div>
+        </div>
 
         <div class="zoom-controls">
             <button class="zoom-btn" id="zoom-in">+</button>
@@ -787,8 +851,154 @@
             };
         }
 
+        function setupSearch() {
+            const searchInput = document.getElementById('country-search');
+            const dropdown = document.getElementById('search-dropdown');
+
+            // Show dropdown as user types
+            searchInput.addEventListener('input', (e) => {
+                const searchTerm = e.target.value.trim().toLowerCase();
+
+                if (!searchTerm) {
+                    dropdown.classList.remove('show');
+                    dropdown.innerHTML = '';
+                    return;
+                }
+
+                // Find matching countries
+                const matches = [];
+                for (const [code, name] of Object.entries(countryNames)) {
+                    if (name.toLowerCase().includes(searchTerm)) {
+                        matches.push({ code, name });
+                    }
+                }
+
+                // Display matches in dropdown
+                if (matches.length > 0) {
+                    dropdown.innerHTML = matches.slice(0, 10).map(match =>
+                        `<div class="dropdown-item" data-code="${match.code}">${match.name}</div>`
+                    ).join('');
+                    dropdown.classList.add('show');
+                } else {
+                    dropdown.classList.remove('show');
+                    dropdown.innerHTML = '';
+                }
+            });
+
+            // Handle dropdown item clicks
+            dropdown.addEventListener('click', (e) => {
+                if (e.target.classList.contains('dropdown-item')) {
+                    const countryCode = e.target.getAttribute('data-code');
+                    selectCountry(countryCode);
+                    searchInput.value = '';
+                    dropdown.classList.remove('show');
+                    dropdown.innerHTML = '';
+                }
+            });
+
+            // Handle Enter key
+            searchInput.addEventListener('keypress', (e) => {
+                if (e.key === 'Enter') {
+                    const searchTerm = searchInput.value.trim().toLowerCase();
+
+                    if (!searchTerm) return;
+
+                    // Find country code by name
+                    let foundCountryId = null;
+                    for (const [code, name] of Object.entries(countryNames)) {
+                        if (name.toLowerCase() === searchTerm || name.toLowerCase().includes(searchTerm)) {
+                            foundCountryId = code;
+                            break;
+                        }
+                    }
+
+                    if (foundCountryId) {
+                        selectCountry(foundCountryId);
+                        searchInput.value = '';
+                        dropdown.classList.remove('show');
+                        dropdown.innerHTML = '';
+                    } else {
+                        alert('Country not found. Please try a different name.');
+                    }
+                }
+            });
+
+            // Hide dropdown when clicking outside
+            document.addEventListener('click', (e) => {
+                if (!searchInput.contains(e.target) && !dropdown.contains(e.target)) {
+                    dropdown.classList.remove('show');
+                }
+            });
+        }
+
+        function selectCountry(countryId) {
+            highlightCountry(countryId);
+            handleCountryClick(countryId);
+        }
+
+        function highlightCountry(countryId) {
+            // Find the country element (path or group)
+            const countryElement = document.getElementById(countryId) ||
+                                  document.querySelector(`[data-name="${countryId}"]`);
+
+            if (countryElement) {
+                // Remove previous highlights and circles
+                document.querySelectorAll('.highlighted').forEach(el => {
+                    el.classList.remove('highlighted');
+                    if (el.tagName === 'path') {
+                        el.style.fill = '';
+                    } else if (el.tagName === 'g') {
+                        el.querySelectorAll('path').forEach(path => path.style.fill = '');
+                    }
+                });
+
+                // Remove previous highlight circles
+                document.querySelectorAll('.highlight-circle').forEach(circle => circle.remove());
+
+                // Highlight the found country
+                countryElement.classList.add('highlighted');
+                if (countryElement.tagName === 'path') {
+                    countryElement.style.fill = '#ff6b6b';
+                } else if (countryElement.tagName === 'g') {
+                    countryElement.querySelectorAll('path').forEach(path => {
+                        path.style.fill = '#ff6b6b';
+                    });
+                }
+
+                // Add dotted circle around the country
+                const svg = document.querySelector('#svg-container svg');
+                const bbox = countryElement.getBBox();
+                const centerX = bbox.x + bbox.width / 2;
+                const centerY = bbox.y + bbox.height / 2;
+                const radius = Math.sqrt(Math.pow(bbox.width / 2, 2) + Math.pow(bbox.height / 2, 2)) + 15;
+
+                const circle = document.createElementNS('http://www.w3.org/2000/svg', 'circle');
+                circle.setAttribute('cx', centerX);
+                circle.setAttribute('cy', centerY);
+                circle.setAttribute('r', radius);
+                circle.setAttribute('fill', 'none');
+                circle.setAttribute('stroke', '#ff0000');
+                circle.setAttribute('stroke-width', '2');
+                circle.setAttribute('stroke-dasharray', '5,5');
+                circle.classList.add('highlight-circle');
+                svg.appendChild(circle);
+
+                // Remove circle on mouseout
+                countryElement.addEventListener('mouseout', function removeCircle() {
+                    document.querySelectorAll('.highlight-circle').forEach(c => c.remove());
+                    countryElement.removeEventListener('mouseout', removeCircle);
+                }, { once: true });
+
+                // Scroll the country into view if needed
+                countryElement.scrollIntoView({ behavior: 'smooth', block: 'center' });
+            }
+        }
+
         // Initialize when page loads
-        window.addEventListener('load', loadSVG);
+        window.addEventListener('load', () => {
+            loadSVG();
+            setupSearch();
+        });
     </script>
 </body>
 </html>
