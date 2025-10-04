@@ -18,6 +18,10 @@ redirect_from:
 <span style="font-size:1.7em; font-weight:410;">Writing</span>
 <hr style="height:1pt;"/>
 
+[Miscellaneous](/misc/)
+
+<hr style="height:1pt; visibility:hidden;" />
+
 <span style="font-size:1.2em; font-weight:410;">Book chapters</span>  
 
 * Quantitative K-theory, positive scalar curvature, and band width (with Z. Xie and G. Yu)  
@@ -93,7 +97,3 @@ In <span style="font-weight:410">Perspectives on Scalar Curvature</span>, Eds. M
 * A Poincaré duality in K-theory
 <span style="font-weight:410">Australian Mathematical Society Gazette</span>
 [journal](https://www.austms.org.au/Publ/Gazette/2017/Mar17/TechGuo.pdf)
-
-<hr style="height:1pt; visibility:hidden;" />
-
-[Interactive World Map](/map.html)
