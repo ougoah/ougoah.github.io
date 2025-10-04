@@ -17,6 +17,6 @@ redirect_from:
 
 **Interactive World Map**
 
-An interactive world map with zoom and pan functions. Click on any country to see its name and flag. Built with AI.
+An interactive world map with zoom, pan, and search functions. Click on any country to see its name and flag. Built with AI.
 
 [View the interactive world map](/map.html)
