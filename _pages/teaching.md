@@ -13,8 +13,6 @@ redirect_from:
 <span style="font-size:1.7em; font-weight:410;">Teaching</span>
 <hr style="height:1pt;"/>
 
-[Miscellaneous](/misc/)
-
 <hr style="height:1pt; visibility:hidden;" />
 
 **At Tsinghua**

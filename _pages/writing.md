@@ -18,8 +18,6 @@ redirect_from:
 <span style="font-size:1.7em; font-weight:410;">Writing</span>
 <hr style="height:1pt;"/>
 
-[Miscellaneous](/misc/)
-
 <hr style="height:1pt; visibility:hidden;" />
 
 <span style="font-size:1.2em; font-weight:410;">Book chapters</span>  
