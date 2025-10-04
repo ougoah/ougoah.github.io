@@ -755,6 +755,16 @@
                     path.style.cursor = 'pointer';
                     path.addEventListener('click', () => handleCountryClick(countryId));
                     path.addEventListener('mouseover', () => {
+                        // Remove any search highlight circles and highlighted countries
+                        document.querySelectorAll('.highlight-circle').forEach(c => c.remove());
+                        document.querySelectorAll('.highlighted').forEach(el => {
+                            el.classList.remove('highlighted');
+                            if (el.tagName === 'path') {
+                                el.style.fill = '';
+                            } else if (el.tagName === 'g') {
+                                el.querySelectorAll('path').forEach(p => p.style.fill = '');
+                            }
+                        });
                         path.style.fill = '#ff6b6b';
                     });
                     path.addEventListener('mouseout', () => {
@@ -770,6 +780,16 @@
                     group.style.cursor = 'pointer';
                     group.addEventListener('click', () => handleCountryClick(countryId));
                     group.addEventListener('mouseover', () => {
+                        // Remove any search highlight circles and highlighted countries
+                        document.querySelectorAll('.highlight-circle').forEach(c => c.remove());
+                        document.querySelectorAll('.highlighted').forEach(el => {
+                            el.classList.remove('highlighted');
+                            if (el.tagName === 'path') {
+                                el.style.fill = '';
+                            } else if (el.tagName === 'g') {
+                                el.querySelectorAll('path').forEach(p => p.style.fill = '');
+                            }
+                        });
                         const paths = group.querySelectorAll('path');
                         paths.forEach(path => path.style.fill = '#ff6b6b');
                     });
