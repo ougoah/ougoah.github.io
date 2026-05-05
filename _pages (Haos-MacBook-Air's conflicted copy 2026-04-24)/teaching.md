@@ -1,0 +1,30 @@
+---
+permalink: /teaching/
+title: ""
+author_profile: true
+redirect_from: 
+  - /teaching.html
+---
+  
+  
+<hr style="height:1pt; visibility:hidden;" />
+<hr style="height:1pt; visibility:hidden;" />
+
+<span style="font-size:1.7em; font-weight:410;">Teaching</span>
+<hr style="height:1pt;"/>
+
+In the Fall of 2022, I will be teaching linear algebra at Tsinghua.
+
+
+<hr style="height:1pt; visibility:hidden;" />
+  
+  
+In the past, I have enjoyed teaching:
+
+* Math304 Linear Algebra, Spring 2020 (Texas A&M)
+
+* Math311 Topics in Applied Mathematics I: Linear Algebra & Vector Calculus, Spring 2019 (Texas A&M)
+
+* Math152 Calculus II, Fall 2018 (Texas A&M)  
+
+In 2019, I received an Outstanding Teaching Award from the Department of Mathematics at Texas A&M.
