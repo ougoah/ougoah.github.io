@@ -15,7 +15,7 @@ redirect_from:
 
 <hr style="height:1pt; visibility:hidden;" />
 
-**Interactive World Map**
+<span style="font-weight:500; color:#595959;">Interactive World Map</span>
 
 An interactive world map with zoom, pan, and search functions. Click on any country to see its name and flag. Built with AI.
 
