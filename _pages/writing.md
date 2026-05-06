@@ -21,9 +21,9 @@ redirect_from:
 <hr style="height:1pt; visibility:hidden;" />
 
 <span style="font-size:1.4em; font-weight:600;">AI</span>
-<hr style="height:0.5pt; border:0; border-top:0.5pt solid #BDBDBD; margin:0.3em 0; width:25%; margin-left:0;"/>
+<hr style="height:0.5pt; border:0; border-top:0.5pt solid #BDBDBD; margin:-0.6em 0 1.2em 0; width:25%; margin-left:0;"/>
 
-<span style="font-size:1.2em; font-weight:410; color:#595959;">Research articles</span>  
+<span style="font-size:1.2em; font-weight:300; color:#595959;">Research articles</span>  
 
 * In-Context Prompting Obsoletes Agent Orchestration for Procedural Tasks (with S. Dennis, M. Diamond, R. Patil and K. Shabahang)  
 [arXiv](https://arxiv.org/abs/2604.27891)&nbsp;<span style="color:#E7E7E7;">\|</span>&nbsp;<span style="color:#27AE60;">new</span>
@@ -32,9 +32,9 @@ redirect_from:
 
 
 <span style="font-size:1.4em; font-weight:600;">Mathematics</span>
-<hr style="height:0.5pt; border:0; border-top:0.5pt solid #BDBDBD; margin:0.3em 0; width:25%; margin-left:0;"/>
+<hr style="height:0.5pt; border:0; border-top:0.5pt solid #BDBDBD; margin:-0.6em 0 1.2em 0; width:25%; margin-left:0;"/>
 
-<span style="font-size:1.2em; font-weight:410; color:#595959;">Book chapters</span>  
+<span style="font-size:1.2em; font-weight:300; color:#595959;">Book chapters</span>  
 
 * Quantitative K-theory, positive scalar curvature, and band width (with Z. Xie and G. Yu)  
 In <span style="font-weight:410">Perspectives on Scalar Curvature</span>, Eds. M. Gromov, H. B. Lawson  
@@ -42,7 +42,7 @@ In <span style="font-weight:410">Perspectives on Scalar Curvature</span>, Eds. M
 <hr style="height:1pt; visibility:hidden;" />
 
 
-<span style="font-size:1.2em; font-weight:410; color:#595959;">Research articles</span>  
+<span style="font-size:1.2em; font-weight:300; color:#595959;">Research articles</span>  
 
 <!-- Colours: #D4AC0D(under review), #27AE60(to appear) -->
 * A higher index and rapidly decaying kernels (with P. Hochs and H. Wang)  
@@ -103,7 +103,7 @@ In <span style="font-weight:410">Perspectives on Scalar Curvature</span>, Eds. M
 <hr style="height:1pt; visibility:hidden;" />
 
 
-<span style="font-size:1.2em; font-weight:410; color:#595959;">Other articles</span>
+<span style="font-size:1.2em; font-weight:300; color:#595959;">Other articles</span>
 
 
 * A Poincaré duality in K-theory
