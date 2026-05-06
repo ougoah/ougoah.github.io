@@ -44,10 +44,12 @@ In <span style="font-weight:410">Perspectives on Scalar Curvature</span>, Eds. M
 
 <!-- Colours: #D4AC0D(under review), #27AE60(to appear) -->
 * A higher index and rapidly decaying kernels (with P. Hochs and H. Wang)  
-[arXiv](https://arxiv.org/abs/2505.02498)&nbsp;<span style="color:#E7E7E7;">\|</span>&nbsp;<span style="color:#27AE60;">new</span>
+<span style="font-weight:410">Journal of Noncommutative Geometry</span>  
+[arXiv](https://arxiv.org/abs/2505.02498)&nbsp;<span style="color:#E7E7E7;">\|</span>&nbsp;[journal](https://ems.press/journals/jncg/articles/14299474)
 
-* A higher index on finite-volume locally symmetric spaces (with P. Hochs and H. Wang)  
-[arXiv](https://arxiv.org/abs/2407.16275)&nbsp;<span style="color:#E7E7E7;">\|</span>&nbsp;<span style="color:#27AE60;">new</span>
+* A higher index theorem on finite-volume locally symmetric spaces (with P. Hochs and H. Wang)  
+<span style="font-weight:410">Münster Journal of Mathematics</span>  
+[arXiv](https://arxiv.org/abs/2407.16275)&nbsp;<span style="color:#E7E7E7;">\|</span>&nbsp;[journal](https://www.uni-muenster.de/FB10/mjm/vol_18/mjm_vol_18_04.pdf)
 
 * A geometric Elliott invariant and noncommutative rigidity of mapping
   tori (with V. Proietti and H. Wang)  
