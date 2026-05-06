@@ -12,7 +12,7 @@ redirect_from:
 <hr style="height:1pt; visibility:hidden;" />
 
 <span style="font-size:1.7em; font-weight:410;">About me</span>
-<hr style="height:1pt;"/>
+<hr style="height:1.5px; border:0; background:linear-gradient(to right, #6F6F6F 0%, #B5B5B5 20%, transparent 50%);"/>
 
 I am an AI Scientist at the start-up [i14](https://i14.ai) in Melbourne.
 

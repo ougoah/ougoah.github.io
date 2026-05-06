@@ -16,12 +16,11 @@ redirect_from:
 
 
 <span style="font-size:1.7em; font-weight:410;">Writing</span>
-<hr style="height:1pt;"/>
+<hr style="height:1.5px; border:0; background:linear-gradient(to right, #6F6F6F 0%, #B5B5B5 20%, transparent 50%);"/>
 
 <hr style="height:1pt; visibility:hidden;" />
 
-<span style="font-size:1.4em; font-weight:600;">AI</span>
-<hr style="height:0.5pt; border:0; border-top:0.5pt solid #BDBDBD; margin:-0.6em 0 1.2em 0; width:25%; margin-left:0;"/>
+<div style="border-left:3px solid #888; padding-left:0.6em; margin:0 0 1.2em 0;"><span style="font-size:1.4em; font-weight:600;">AI</span></div>
 
 <span style="font-size:1.2em; font-weight:300; color:#595959;">Research articles</span>  
 
@@ -31,8 +30,7 @@ redirect_from:
 <hr style="height:1pt; visibility:hidden;" />
 
 
-<span style="font-size:1.4em; font-weight:600;">Mathematics</span>
-<hr style="height:0.5pt; border:0; border-top:0.5pt solid #BDBDBD; margin:-0.6em 0 1.2em 0; width:25%; margin-left:0;"/>
+<div style="border-left:3px solid #888; padding-left:0.6em; margin:0 0 1.2em 0;"><span style="font-size:1.4em; font-weight:600;">Mathematics</span></div>
 
 <span style="font-size:1.2em; font-weight:300; color:#595959;">Book chapters</span>  
 
