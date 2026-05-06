@@ -11,7 +11,7 @@ redirect_from:
 <hr style="height:1pt; visibility:hidden;" />
 <hr style="height:1pt; visibility:hidden;" />
 
-<span style="font-size:1.7em; font-weight:410;">About me</span>
+<span style="font-size:1.7em; font-weight:410; color:#3F5573;">About me</span>
 <hr style="height:1.5px; border:0; background:linear-gradient(to right, #6F6F6F 0%, #B5B5B5 20%, transparent 50%);"/>
 
 <span style="font-size:1.05em; font-style:italic; color:#7A7A7A;">Mathematician · AI Tinkerer</span>
