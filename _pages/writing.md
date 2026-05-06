@@ -111,6 +111,6 @@ In <span style="font-weight:410">Perspectives on Scalar Curvature</span>, Eds. M
 <span style="font-size:1.2em; font-weight:300; color:#595959;">Other articles</span>
 
 
-* <span class="pub-year">2017</span> A Poincaré duality in K-theory
-<span style="font-weight:410">Australian Mathematical Society Gazette</span>
+* <span class="pub-year">2017</span> A Poincaré duality in K-theory  
+<span style="font-weight:410">Australian Mathematical Society Gazette</span>  
 [journal](https://www.austms.org.au/Publ/Gazette/2017/Mar17/TechGuo.pdf)
