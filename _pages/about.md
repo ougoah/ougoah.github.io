@@ -14,9 +14,9 @@ redirect_from:
 <span style="font-size:1.7em; font-weight:410;">About me</span>
 <hr style="height:1.5px; border:0; background:linear-gradient(to right, #6F6F6F 0%, #B5B5B5 20%, transparent 50%);"/>
 
-<span style="font-size:1.05em; font-style:italic; color:#7A7A7A;">Mathematician · AI researcher</span>
+<span style="font-size:1.05em; font-style:italic; color:#7A7A7A;">Mathematician · AI Tinkerer</span>
 
-I am an AI Tinkerer at the start-up [i14](https://i14.ai) in Melbourne.
+I am an AI Scientist at the start-up [i14](https://i14.ai) in Melbourne.
 
 From March 2022 - February 2026 I was an Assistant Professor at the Yau Mathematical Sciences Center (YMSC), at Tsinghua University in Beijing.
 
