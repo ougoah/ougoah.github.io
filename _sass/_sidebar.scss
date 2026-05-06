@@ -174,13 +174,14 @@
   cursor: default;
 
   @include breakpoint($large) {
-    display: block;
+    display: inline-block;
     position: relative;
     margin: 0;
     padding: 0;
     border: 0;
     background: transparent;
     box-shadow: none;
+    text-align: left;
   }
 
   &:before {
