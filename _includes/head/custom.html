@@ -36,23 +36,17 @@
 <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/latest.js?config=TeX-MML-AM_CHTML' async></script>
 
 <style>
-html {
-  scroll-behavior: smooth;
-  background-color: #f6f3ec;
-  background-image:
-    radial-gradient(circle, rgba(63,85,115,0.13) 1px, transparent 1.4px),
-    linear-gradient(135deg, rgba(63,85,115,0.10) 0%, rgba(63,85,115,0) 55%);
-  background-size: 24px 24px, 100% 100%;
-  background-attachment: fixed;
-  background-position: 0 0, 0 0;
+html { scroll-behavior: smooth; }
+.sidebar .author__urls li,
+.sidebar .author__urls li > a {
+  position: relative;
 }
-body { background: transparent; }
 .sidebar .author__urls li > i,
 .sidebar .author__urls li > a > i {
-  display: inline-block;
+  position: absolute;
+  left: -1.4em;
+  top: 0.25em;
   width: 1.2em;
-  margin-left: -1.6em;
-  margin-right: 0.4em;
   text-align: center;
 }
 </style>
