@@ -30,8 +30,6 @@ redirect_from:
 
 <div id="ai" style="border-left:3px solid #888; padding-left:0.6em; margin:0 0 1.2em 0;"><span style="font-size:1.4em; font-weight:600;">AI</span></div>
 
-<span style="font-size:1.2em; font-weight:300; color:#595959;">Research articles</span>  
-
 * <span class="pub-year">2026</span> In-Context Prompting Obsoletes Agent Orchestration for Procedural Tasks (with S. Dennis, M. Diamond, R. Patil, and K. Shabahang)  
 [arXiv](https://arxiv.org/abs/2604.27891)&nbsp;<span style="color:#E7E7E7;">\|</span>&nbsp;<span class="pub-new">new</span>
 
