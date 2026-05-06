@@ -16,7 +16,7 @@ redirect_from:
 
 <span style="font-size:1.05em; font-style:italic; color:#7A7A7A;">Mathematician · AI Tinkerer</span>
 
-I am an AI Scientist at the start-up [i14](https://i14.ai) in Melbourne.
+I am an AI Scientist at the startup [i14](https://i14.ai) in Melbourne.
 
 From March 2022 - February 2026 I was an Assistant Professor at the Yau Mathematical Sciences Center (YMSC), at Tsinghua University in Beijing.
 
