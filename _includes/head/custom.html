@@ -37,9 +37,11 @@
 
 <style>
 html { scroll-behavior: smooth; }
+.sidebar .author__urls { z-index: auto; }
 .sidebar .author__urls li,
 .sidebar .author__urls li > a {
   position: relative;
+  z-index: 1;
 }
 .sidebar .author__urls li > i,
 .sidebar .author__urls li > a > i {
@@ -48,6 +50,7 @@ html { scroll-behavior: smooth; }
   top: 0.25em;
   width: 1.2em;
   text-align: center;
+  pointer-events: none;
 }
 </style>
 
