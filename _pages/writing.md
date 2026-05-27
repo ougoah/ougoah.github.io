@@ -31,16 +31,16 @@ redirect_from:
 <div id="ai" style="border-left:3px solid #888; padding-left:0.6em; margin:0 0 1.2em 0;"><span style="font-size:1.4em; font-weight:600;">AI</span></div>
 
 * <span class="pub-year">2026</span> When mean CE fails: Median CE can better track language model quality (with S. Dennis, R. Patil, and K. Shabahang)  
-[arXiv](https://arxiv.org/abs/2605.24667)&nbsp;<span style="color:#E7E7E7;">\|</span>&nbsp;<span class="pub-new">new</span>
+[arXiv](https://arxiv.org/abs/2605.24667)
 
 * <span class="pub-year">2026</span> Beyond inference-only deployment: Comparing weight-based consolidation against cascading compaction (with S. Dennis, K. Shabahang, and R. Patil)  
-[arXiv](https://arxiv.org/abs/2605.24657)&nbsp;<span style="color:#E7E7E7;">\|</span>&nbsp;<span class="pub-new">new</span>
+[arXiv](https://arxiv.org/abs/2605.24657)
 
 * <span class="pub-year">2026</span> Compiling agentic workflows into LLM weights: Near-frontier quality at two orders of magnitude less cost (with S. Dennis, R. Patil, and K. Shabahang)  
-[arXiv](https://arxiv.org/abs/2605.22502)&nbsp;<span style="color:#E7E7E7;">\|</span>&nbsp;<span class="pub-new">new</span>
+[arXiv](https://arxiv.org/abs/2605.22502)
 
 * <span class="pub-year">2026</span> In-context prompting obsoletes agent orchestration for procedural tasks (with S. Dennis, M. Diamond, R. Patil, and K. Shabahang)  
-[arXiv](https://arxiv.org/abs/2604.27891)&nbsp;<span style="color:#E7E7E7;">\|</span>&nbsp;<span class="pub-new">new</span>
+[arXiv](https://arxiv.org/abs/2604.27891)
 
 <hr style="height:1pt; visibility:hidden;" />
 
