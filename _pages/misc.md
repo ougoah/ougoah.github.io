@@ -17,4 +17,4 @@ redirect_from:
 
 <span style="font-weight:500; color:#595959;">Flags of the world</span>
 
-[Click](/map.html) on a country to see its flag.
+Would you like to [see](/map.html) a map of the world with flags?
