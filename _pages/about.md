@@ -16,6 +16,11 @@ redirect_from:
 
 <span style="font-size:1.05em; font-style:italic; color:#7A7A7A;">Mathematician · Tinkerer</span>
 
+<video controls playsinline style="max-width:100%; height:auto; border-radius:6px; margin:1em 0;">
+  <source src="{{ '/files/Index formula type of thing.mov' | relative_url | uri_escape }}" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 I am an AI Scientist at [i14](https://i14.ai) in Melbourne.
 
 From March 2022 - February 2026 I was an Assistant Professor at the Yau Mathematical Sciences Center (YMSC), at Tsinghua University in Beijing.
