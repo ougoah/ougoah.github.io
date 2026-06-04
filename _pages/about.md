@@ -25,6 +25,6 @@ Prior to this, I was a postdoc at Texas A&M University working with [Guoliang Yu
 I am interested in index theory, K-theory, and their connections to geometry, topology, and group theory.
 
 <video controls playsinline style="max-width:100%; height:auto; border-radius:6px; margin:1em 0;">
-  <source src="{{ '/files/Index formula type of thing.mov' | relative_url | uri_escape }}" type="video/mp4">
+  <source src="{{ '/files/Another.mov' | relative_url | uri_escape }}" type="video/mp4">
   Your browser does not support the video tag.
 </video>
