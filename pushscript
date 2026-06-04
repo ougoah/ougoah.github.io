@@ -1,4 +1,23 @@
-#!/bin/bash  
-git add .  
-git commit -m “commit” 
+#!/bin/bash
+set -euo pipefail
+
+# Commit and push all changes.
+# Usage:
+#   ./pushscript                 # commits with the message "update"
+#   ./pushscript your message    # commits with "your message"
+
+# Always run from the repo root (the directory this script lives in),
+# so it works no matter where you invoke it from.
+cd "$(dirname "$0")"
+
+msg="${*:-update}"
+
+git add -A
+
+if git diff --cached --quiet; then
+  echo "Nothing to commit — working tree is clean."
+  exit 0
+fi
+
+git commit -m "$msg"
 git push
