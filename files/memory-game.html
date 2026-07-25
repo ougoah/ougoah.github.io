@@ -1,0 +1,248 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Memorize - But difficult</title>
+<style>
+  body {
+    background-color: #1f2223;
+    text-align: center;
+  }
+  * {
+    color: white;
+    margin: 0;
+    padding: 0;
+    font-size: 30px;
+    font-family: system-ui, sans-serif;
+    box-sizing: border-box;
+  }
+  #stage {
+    position: relative;
+    width: 500px;
+    height: 500px;
+    max-width: 90vmin;
+    max-height: 90vmin;
+    background: #818383;
+    padding: 5px;
+    display: inline-block;
+    margin-top: 20px;
+  }
+  #panel {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+  }
+  .row {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    height: 100%;
+  }
+  .tile {
+    width: 100%;
+    background: #2d2d2d;
+    border: 1px solid black;
+    display: flex;
+    cursor: pointer;
+  }
+  .tile--fill { background: white; }             /* lit / correctly found */
+  .tile--wrong { background: #5a2323; cursor: default; } /* wrong guess */
+  .tile.locked { cursor: default; }
+
+  .footer { margin-top: 16px; }
+  .lives { margin-top: 20px; }
+
+  /* Start / game-over overlay */
+  #overlay {
+    position: absolute;
+    inset: 5px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    background: #2d2d2d;
+    padding: 20px;
+  }
+  #overlay.hidden { display: none; }
+  #overlay p { font-size: 20px; font-weight: 300; line-height: 1.35; }
+  #overlay .big { font-size: 40px; }
+  button {
+    font-size: 24px;
+    color: #1f2223;
+    background: #fff;
+    border: 2px solid black;
+    padding: 10px 34px;
+    cursor: pointer;
+  }
+  button:hover { background: #d9d9d9; }
+</style>
+</head>
+<body translate="no">
+  <div id="stage">
+    <div id="panel"></div>
+    <div id="overlay">
+      <p>Memorize the white squares,<br>then click them all.<br>
+         Miss 3 tiles on a level and you lose a life.<br>You have three lives.</p>
+      <button id="ov-btn">Start</button>
+    </div>
+  </div>
+
+  <div class="footer">
+    <div class="lives">
+      <span>Lives Left: </span>
+      <span id="lives">3</span>
+    </div>
+    <div class="level">
+      <span>LEVEL: </span>
+      <span id="level">1</span>
+    </div>
+  </div>
+
+<script>
+// ---- Human Benchmark "Visual Memory" logic (from the site's app bundle) ----
+//   grid width  = floor(sqrt(9 + 3*level))
+//   lit tiles   = 2 + level
+//   3 lives; the 3rd wrong tile on a level costs one life AND ends the round,
+//   which then replays the SAME level with a fresh board.
+//   Clear a level (find every lit tile) to advance.
+var TOTAL_LIVES = 3;
+var FP_LIMIT    = 3;      // wrong tiles allowed before the level is failed
+var PREFLIP_MS  = 500;    // blank board before the reveal
+var REVEAL_MS   = 1200;   // how long the pattern is shown
+var RECAP_MS    = 1000;   // pause showing the outcome before the next round
+
+var level, lives, width, targets, found, falsePositives, phase;
+
+var panel   = document.getElementById('panel');
+var levelEl = document.getElementById('level');
+var livesEl = document.getElementById('lives');
+var overlay = document.getElementById('overlay');
+var ovBtn   = document.getElementById('ov-btn');
+
+function gridWidth(lvl) { return Math.floor(Math.sqrt(9 + 3 * lvl)); }
+function tileCount(lvl) { return 2 + lvl; }
+
+ovBtn.addEventListener('click', startGame);
+
+function startGame() {
+  level = 1;
+  lives = TOTAL_LIVES;
+  overlay.classList.add('hidden');
+  updateHud();
+  initStage();
+}
+
+function updateHud() {
+  levelEl.textContent = level;
+  livesEl.textContent = lives;
+}
+
+// Build a level and run the reveal, then hand control to the player.
+function initStage() {
+  phase = 'preflip';
+  width = gridWidth(level);
+  var count = tileCount(level);
+
+  targets = pickTargets(width * width, count);
+  found = new Set();
+  falsePositives = 0;
+
+  renderBoard(false);                 // blank during preflip
+  setTimeout(reveal, PREFLIP_MS);
+}
+
+function reveal() {
+  phase = 'flipped';
+  document.querySelectorAll('.tile').forEach(function (t) {
+    if (targets.has(Number(t.dataset.index))) t.classList.add('tile--fill');
+  });
+  setTimeout(function () {
+    document.querySelectorAll('.tile--fill').forEach(function (t) {
+      t.classList.remove('tile--fill');
+    });
+    phase = 'usertest';
+  }, REVEAL_MS);
+}
+
+function renderBoard() {
+  panel.replaceChildren();
+  for (var r = 0; r < width; r++) {
+    var row = document.createElement('div');
+    row.className = 'row';
+    for (var c = 0; c < width; c++) {
+      var idx = r * width + c;
+      var tile = document.createElement('div');
+      tile.className = 'tile';
+      tile.dataset.index = idx;
+      row.appendChild(tile);
+    }
+    panel.appendChild(row);
+  }
+}
+
+panel.addEventListener('click', function (e) {
+  if (phase !== 'usertest') return;
+  var tile = e.target.closest('.tile');
+  if (!tile || tile.classList.contains('locked')) return;
+
+  var idx = Number(tile.dataset.index);
+
+  if (targets.has(idx)) {
+    // Correct square.
+    found.add(idx);
+    tile.classList.add('tile--fill', 'locked');
+    if (found.size === targets.size) winLevel();
+  } else {
+    // Wrong square: a false positive. Two are free; the third fails the level.
+    tile.classList.add('tile--wrong', 'locked');
+    falsePositives++;
+    if (falsePositives >= FP_LIMIT) failLevel();
+  }
+});
+
+function winLevel() {
+  phase = 'recap';
+  setTimeout(function () {
+    level++;
+    updateHud();
+    initStage();
+  }, RECAP_MS);
+}
+
+function failLevel() {
+  phase = 'recap';
+  // Reveal the full correct pattern so the player sees what they missed.
+  document.querySelectorAll('.tile').forEach(function (t) {
+    if (targets.has(Number(t.dataset.index))) t.classList.add('tile--fill');
+  });
+  setTimeout(function () {
+    lives--;
+    updateHud();
+    if (lives <= 0) { gameOver(); return; }
+    initStage();                        // replay the SAME level, new board
+  }, RECAP_MS);
+}
+
+function gameOver() {
+  overlay.querySelector('p').innerHTML =
+    'Game Over<br>You reached<br><span class="big">Level ' + level + '</span>';
+  ovBtn.textContent = 'Try again';
+  overlay.classList.remove('hidden');
+}
+
+// Pick `n` distinct indices in [0, total).
+function pickTargets(total, n) {
+  var pool = Array.from({ length: total }, function (_, i) { return i; });
+  var chosen = new Set();
+  for (var k = 0; k < n; k++) {
+    var j = Math.floor(Math.random() * pool.length);
+    chosen.add(pool[j]);
+    pool.splice(j, 1);
+  }
+  return chosen;
+}
+</script>
+</body>
+</html>
