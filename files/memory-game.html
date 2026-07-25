@@ -98,6 +98,10 @@
       <span>LEVEL: </span>
       <span id="level">1</span>
     </div>
+    <div class="best">
+      <span>BEST: </span>
+      <span id="best">0</span>
+    </div>
   </div>
 
 <script>
@@ -118,8 +122,20 @@ var level, lives, width, targets, found, falsePositives, phase;
 var panel   = document.getElementById('panel');
 var levelEl = document.getElementById('level');
 var livesEl = document.getElementById('lives');
+var bestEl  = document.getElementById('best');
 var overlay = document.getElementById('overlay');
 var ovBtn   = document.getElementById('ov-btn');
+
+// Best level reached, cached in the browser on this computer.
+var BEST_KEY = 'visualMemoryBest';
+function loadBest() {
+  try { return parseInt(localStorage.getItem(BEST_KEY), 10) || 0; }
+  catch (e) { return 0; }
+}
+function saveBest(v) {
+  try { localStorage.setItem(BEST_KEY, v); } catch (e) {}
+}
+bestEl.textContent = loadBest();
 
 function gridWidth(lvl) { return Math.floor(Math.sqrt(9 + 3 * lvl)); }
 function tileCount(lvl) { return 2 + lvl; }
@@ -226,8 +242,14 @@ function failLevel() {
 }
 
 function gameOver() {
+  var best = loadBest();
+  var isRecord = level > best;
+  if (isRecord) { best = level; saveBest(best); }
+  bestEl.textContent = best;
+
   overlay.querySelector('p').innerHTML =
-    'Game Over<br>You reached<br><span class="big">Level ' + level + '</span>';
+    'Game Over<br>You reached<br><span class="big">Level ' + level + '</span>'
+    + (isRecord ? '<br>New best!' : '<br>Best: Level ' + best);
   ovBtn.textContent = 'Try again';
   overlay.classList.remove('hidden');
 }
