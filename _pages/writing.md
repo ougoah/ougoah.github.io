@@ -30,6 +30,12 @@ redirect_from:
 
 <div id="ai" style="border-left:3px solid #888; padding-left:0.6em; margin:0 0 1.2em 0;"><span style="font-size:1.4em; font-weight:600;">AI</span></div>
 
+* <span class="pub-year">2026</span> Forward pass domain adaptation (without cross-layer backpropagation) (with R. Patil, S. Dennis, and K. Shabahang)  
+[arXiv](https://arxiv.org/abs/2608.14563)&nbsp;<span style="color:#E7E7E7;">\|</span>&nbsp;
+
+* <span class="pub-year">2026</span> Procedural knowledge is not low-rank: Why LoRA fails to internalize multi-step procedures (with S. Dennis, K. Shabahang, and R. Patil)  
+[arXiv](https://arxiv.org/abs/2607.21612)&nbsp;<span style="color:#E7E7E7;">\|</span>&nbsp;
+
 * <span class="pub-year">2026</span> When mean CE fails: Median CE can better track language model quality (with S. Dennis, R. Patil, and K. Shabahang)  
 [arXiv](https://arxiv.org/abs/2605.24667)&nbsp;<span style="color:#E7E7E7;">\|</span>&nbsp;
 
