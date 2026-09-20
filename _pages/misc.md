@@ -15,12 +15,12 @@ redirect_from:
 
 <hr style="height:1pt; visibility:hidden;" />
 
-<span style="font-weight:500; color:#595959;">Flags of the world</span>
+<span style="font-weight:500; color:#4A78B5;">Flags of the world</span>
 
 Would you like to [see](/map.html) a map of the world with flags?
 
 <hr style="height:1pt; visibility:hidden;" />
 
-<span style="font-weight:500; color:#595959;">Memory game</span>
+<span style="font-weight:500; color:#4A78B5;">Memory game</span>
 
 Would you like to [test](/memory.html) your visual memory?

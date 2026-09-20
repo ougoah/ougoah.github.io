@@ -53,7 +53,7 @@ redirect_from:
 
 <div id="mathematics" style="border-left:3px solid #888; padding-left:0.6em; margin:0 0 1.2em 0;"><span style="font-size:1.4em; font-weight:600;">Mathematics</span></div>
 
-<span style="font-size:1.2em; font-weight:300; color:#595959;">Book chapters</span>  
+<span style="font-size:1.2em; font-weight:300; color:#4A78B5;">Book chapters</span>  
 
 * <span class="pub-year">2023</span> Quantitative K-theory, positive scalar curvature, and band width (with Z. Xie and G. Yu)  
 In <span style="font-weight:410">Perspectives on Scalar Curvature</span>, Eds. M. Gromov, H. B. Lawson  
@@ -61,7 +61,7 @@ In <span style="font-weight:410">Perspectives on Scalar Curvature</span>, Eds. M
 <hr style="height:1pt; visibility:hidden;" />
 
 
-<span style="font-size:1.2em; font-weight:300; color:#595959;">Research articles</span>  
+<span style="font-size:1.2em; font-weight:300; color:#4A78B5;">Research articles</span>  
 
 * <span class="pub-year">2026</span> A higher index and rapidly decaying kernels (with P. Hochs and H. Wang)  
 <span style="font-weight:410">Journal of Noncommutative Geometry</span>  
@@ -123,7 +123,7 @@ In <span style="font-weight:410">Perspectives on Scalar Curvature</span>, Eds. M
 <hr style="height:1pt; visibility:hidden;" />
 
 
-<span style="font-size:1.2em; font-weight:300; color:#595959;">Other articles</span>
+<span style="font-size:1.2em; font-weight:300; color:#4A78B5;">Other articles</span>
 
 
 * <span class="pub-year">2017</span> A Poincaré duality in K-theory  
