@@ -19,15 +19,15 @@ Short expository notes and journal-club summaries.
 
 <hr style="height:1pt; visibility:hidden;" />
 
-<span style="font-weight:500; color:#4A78B5;">Robust agents learn causal world models</span>
-
-A summary of Richens and Everitt (ICLR 2024): an agent that stays near-optimal across intervention-induced domain shifts must, in an information-theoretic sense, carry an approximate causal model of its environment. [PDF](/files/robust_agents_causal_world_models_summary.pdf)
-
-<hr style="height:1pt; visibility:hidden;" />
-
 <span style="font-weight:500; color:#4A78B5;">General agents contain world models</span>
 
 A summary of Richens, Abel, Bellot, and Everitt (ICML 2025), the follow-up to *Robust agents learn causal world models*: any agent that generalises to multi-step goal-directed tasks must contain a predictive world model, extractable from its policy, with accuracy forced up by the depth of the goals it can achieve. [PDF](/files/general_agents_world_models_summary.pdf)
+
+<hr style="height:1pt; visibility:hidden;" />
+
+<span style="font-weight:500; color:#4A78B5;">Robust agents learn causal world models</span>
+
+A summary of Richens and Everitt (ICLR 2024): an agent that stays near-optimal across intervention-induced domain shifts must, in an information-theoretic sense, carry an approximate causal model of its environment. [PDF](/files/robust_agents_causal_world_models_summary.pdf)
 
 <hr style="height:1pt; visibility:hidden;" />
 
