@@ -27,7 +27,7 @@ A summary of Section 5 of Nayebi, *What Capable Agents Must Know: Selection Theo
 
 <span style="font-weight:500; color:#4A78B5;">General agents contain world models</span>
 
-A summary of Richens, Abel, Bellot, and Everitt (ICML 2025), the follow-up to *Robust agents learn causal world models*: any agent that generalises to multi-step goal-directed tasks must contain a predictive world model, extractable from its policy, with accuracy forced up by the depth of the goals it can achieve. [PDF](/files/general_agents_world_models_summary.pdf)
+A summary of Richens, Abel, Bellot, and Everitt (ICML 2025), the follow-up to *Robust agents learn causal world models*: any agent that generalises to multi-step goal-directed tasks must contain a predictive world model, extractable from its policy, with accuracy forced up by the depth of the goals it can achieve. Includes a step-by-step account of the goal construction behind Theorem 1 and the exact relation between goal depth and the number of encoded trials. [PDF](/files/general_agents_world_models_summary.pdf)
 
 <hr style="height:1pt; visibility:hidden;" />
 
