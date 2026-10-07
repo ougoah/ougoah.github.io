@@ -64,7 +64,7 @@ In <span style="font-weight:410">Perspectives on Scalar Curvature</span>, Eds. M
 <span style="font-size:1.2em; font-weight:300; color:#4A78B5;">Research articles</span>  
 
 * <span class="pub-year">2026</span> Higher localised A-hat-genera: a note on disconnected fixed-point sets  
-[arXiv](https://arxiv.org/abs/2610.07833)&nbsp;<span style="color:#E7E7E7;">\|</span>&nbsp;
+[arXiv](https://arxiv.org/abs/2610.07833)&nbsp;<span style="color:#E7E7E7;">\|</span>&nbsp;<span class="pub-new">new</span>
 
 * <span class="pub-year">2026</span> A higher index and rapidly decaying kernels (with P. Hochs and H. Wang)  
 <span style="font-weight:410">Journal of Noncommutative Geometry</span>  
